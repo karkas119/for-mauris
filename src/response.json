@@ -1,0 +1,5046 @@
+[{
+	"id": 1555638,
+	"url": "http://www.tvmaze.com/episodes/1555638/paw-patrol-5x35-mighty-pups",
+	"name": "Mighty Pups",
+	"season": 5,
+	"number": 35,
+	"airdate": "2018-11-12",
+	"airtime": "09:30",
+	"airstamp": "2018-11-12T14:30:00+00:00",
+	"runtime": 15,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 894,
+		"url": "http://www.tvmaze.com/shows/894/paw-patrol",
+		"name": "Paw Patrol",
+		"type": "Animation",
+		"language": "English",
+		"genres": ["Comedy", "Action", "Adventure"],
+		"status": "Running",
+		"runtime": 15,
+		"premiered": "2013-08-27",
+		"officialSite": "http://www.nickjr.com/paw-patrol/videos/",
+		"schedule": {
+			"time": "09:30",
+			"days": ["Monday", "Wednesday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 97,
+		"network": {
+			"id": 27,
+			"name": "Nickelodeon",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 36874,
+			"thetvdb": 272472,
+			"imdb": "tt3121722"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/15988.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/6/15988.jpg"
+		},
+		"summary": "<p><b>Paw Patrol</b> stars a pack of six heroic rescue pups - Chase, Marshall, Rocky, Rubble, Zuma and Skye - who are led by a tech-savvy boy named Ryder. Together they work hard to protect the Adventure Bay community believing, \"no job is too big, no pup is too small!\" The series features a curriculum that focuses on citizenship, social skills and problem-solving.</p>",
+		"updated": 1540998944,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/894"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1540271"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555638"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1555638"
+		}
+	}
+}, {
+	"id": 1559314,
+	"url": "http://www.tvmaze.com/episodes/1559314/the-lion-guard-2x25-beshte-and-the-beast",
+	"name": "Beshte and the Beast",
+	"season": 2,
+	"number": 25,
+	"airdate": "2018-11-12",
+	"airtime": "11:00",
+	"airstamp": "2018-11-12T16:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 6770,
+		"url": "http://www.tvmaze.com/shows/6770/the-lion-guard",
+		"name": "The Lion Guard",
+		"type": "Animation",
+		"language": "English",
+		"genres": ["Adventure", "Children"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2016-01-15",
+		"officialSite": "http://movies.disney.com/the-lion-guard",
+		"schedule": {
+			"time": "11:00",
+			"days": ["Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 85,
+		"network": {
+			"id": 78,
+			"name": "Disney Channel",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 282756,
+			"imdb": "tt3793630"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/25/64005.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/25/64005.jpg"
+		},
+		"summary": "<p><b>The Lion Guard</b> will recount the efforts of Kion, the son and youngest child of Simba and Nala, to assemble a team of animals to protect the Pride Lands. Some characters from <i>The Lion King</i>, its 1998 sequel <i>The Lion King II: Simba's Pride</i> and 2004's <i>The Lion King 1½</i>, will appear such as Kiara, Timon, Pumbaa, Rafiki, Zazu, Simba, Nala and Mufasa. It will also feature new characters including a cheetah named Fuli, a hippopotamus named Beshte, an egret named Ono and a honey badger named Bunga, who will serve as Kion's friends.</p>",
+		"updated": 1541462399,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/6770"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1520381"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1559314"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1559314"
+		}
+	}
+}, {
+	"id": 1563695,
+	"url": "http://www.tvmaze.com/episodes/1563695/rachael-ray-2018-11-12-michael-strahan-reveals-why-he-wont-let-twin-daughters-date-the-healthiest-holiday-spices",
+	"name": "Michael Strahan Reveals Why He Won't Let Twin Daughters Date + The Healthiest Holiday Spices",
+	"season": 2018,
+	"number": 145,
+	"airdate": "2018-11-12",
+	"airtime": "11:00",
+	"airstamp": "2018-11-12T16:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 9077,
+		"url": "http://www.tvmaze.com/shows/9077/rachael-ray",
+		"name": "Rachael Ray",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2006-09-18",
+		"officialSite": "http://www.rachaelrayshow.com/",
+		"schedule": {
+			"time": "11:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 97,
+		"network": {
+			"id": 72,
+			"name": "Syndication",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 267266,
+			"imdb": "tt0827947"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/32/80226.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/32/80226.jpg"
+		},
+		"summary": "<p><b>Rachael Ray</b>, also known as <i>Rachael</i> and <i>The Rachael Ray Show</i>, is an American talk show starring Rachael Ray that debuted in syndication in the United States and Canada on September 18, 2006 and also airs in other countries. It is taped at Chelsea Television Studios in New York City. The show's 8th season premiered on September 9, 2013, and became the last Harpo show in syndication to switch to HD with a revamped studio. The concept behind this program showcases Ray's culinary skills. She brings various celebrities on screen to discuss their accomplishments in the entertainment, sports, and media industries. Ray asks for tips and strategies for staying healthy and safe from various health and lifestyle experts, she includes make-over segments, and features musical performances, all of which are features along the same lines of <i>The Oprah Winfrey Show</i>. She does, however, keep cooking in the forefront by including at least one cooking segment at the end of each episode, and sometimes inviting her celebrity guests to join her in the kitchen. According to Ray, \"People know me for my love of food, but I have so much more I want to share\". The set has the audience seated on a large turntable that rotates so that the audience can always see the \"action\" on the circular stage that surrounds them. At the end of each show, with the exception of a few more guests after Ray's cooking segments, Ray's tagline is, \"We'll see you when we see you\".</p>",
+		"updated": 1541954782,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/9077"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560068"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1563695"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1563695"
+		}
+	}
+}, {
+	"id": 1560234,
+	"url": "http://www.tvmaze.com/episodes/1560234/the-young-and-the-restless-46x165-ep-11558",
+	"name": "Ep. #11558",
+	"season": 46,
+	"number": 165,
+	"airdate": "2018-11-12",
+	"airtime": "12:30",
+	"airstamp": "2018-11-12T17:30:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 4344,
+		"url": "http://www.tvmaze.com/shows/4344/the-young-and-the-restless",
+		"name": "The Young and the Restless",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Family", "Romance"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "1973-03-26",
+		"officialSite": "http://www.cbs.com/shows/the_young_and_the_restless/",
+		"schedule": {
+			"time": "12:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 7.5
+		},
+		"weight": 96,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 6318,
+			"thetvdb": 70328,
+			"imdb": "tt0069658"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51462.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51462.jpg"
+		},
+		"summary": "<p><b>The Young and the Restless</b> revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</p>",
+		"updated": 1541811705,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/4344"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560233"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560234"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1560234"
+		}
+	}
+}, {
+	"id": 1563961,
+	"url": "http://www.tvmaze.com/episodes/1563961/days-of-our-lives-54x03-ep-13467",
+	"name": "Ep. #13467",
+	"season": 54,
+	"number": 3,
+	"airdate": "2018-11-12",
+	"airtime": "13:00",
+	"airstamp": "2018-11-12T18:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 812,
+		"url": "http://www.tvmaze.com/shows/812/days-of-our-lives",
+		"name": "Days of Our Lives",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Family", "Romance"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "1965-12-09",
+		"officialSite": "http://www.nbc.com/days-of-our-lives",
+		"schedule": {
+			"time": "13:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 7
+		},
+		"weight": 88,
+		"network": {
+			"id": 1,
+			"name": "NBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 3256,
+			"thetvdb": 70366,
+			"imdb": "tt0058796"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/87/218576.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/87/218576.jpg"
+		},
+		"summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p>",
+		"updated": 1541980236,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/812"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1554921"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1563961"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1563961"
+		}
+	}
+}, {
+	"id": 1554926,
+	"url": "http://www.tvmaze.com/episodes/1554926/the-bold-and-the-beautiful-32x166-ep-7967",
+	"name": "Ep. #7967",
+	"season": 32,
+	"number": 166,
+	"airdate": "2018-11-12",
+	"airtime": "13:30",
+	"airstamp": "2018-11-12T18:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 806,
+		"url": "http://www.tvmaze.com/shows/806/the-bold-and-the-beautiful",
+		"name": "The Bold and the Beautiful",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Family", "Romance"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "1987-03-23",
+		"officialSite": null,
+		"schedule": {
+			"time": "13:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 86,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 5631,
+			"thetvdb": 79838,
+			"imdb": "tt0092325"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/15628.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/6/15628.jpg"
+		},
+		"summary": "<p>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. <b>The Bold and the Beautiful</b>, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on <i>The Bold and the Beautiful</i>...</p>",
+		"updated": 1541979987,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/806"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1554925"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1554926"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1554926"
+		}
+	}
+}, {
+	"id": 1560223,
+	"url": "http://www.tvmaze.com/episodes/1560223/general-hospital-56x154-ep-14180",
+	"name": "Ep. #14180",
+	"season": 56,
+	"number": 154,
+	"airdate": "2018-11-12",
+	"airtime": "14:00",
+	"airstamp": "2018-11-12T19:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 4189,
+		"url": "http://www.tvmaze.com/shows/4189/general-hospital",
+		"name": "General Hospital",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Medical"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "1963-04-01",
+		"officialSite": "http://abc.go.com/shows/general-hospital",
+		"schedule": {
+			"time": "14:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 86,
+		"network": {
+			"id": 3,
+			"name": "ABC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 3653,
+			"thetvdb": 75332,
+			"imdb": "tt0056758"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/115/287759.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/115/287759.jpg"
+		},
+		"summary": "<p><b>General Hospital</b>, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</p>",
+		"updated": 1541998130,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/4189"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560221"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560223"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1560223"
+		}
+	}
+}, {
+	"id": 1563592,
+	"url": "http://www.tvmaze.com/episodes/1563592/the-talk-2018-11-12-kareem-abdul-jabbar-wolfgang-puck-rita-moreno-and-dania-ramirez-guest-co-host",
+	"name": "Kareem Abdul-Jabbar, Wolfgang Puck, Rita Moreno and Dania Ramirez guest co-host",
+	"season": 2018,
+	"number": 196,
+	"airdate": "2018-11-12",
+	"airtime": "14:00",
+	"airstamp": "2018-11-12T19:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Former NBA superstar and author Kareem Abdul-Jabbar discusses his new book Mycroft and Sherlock; renowned celebrity chef Wolfgang Puck serves up a special Thanksgiving feast; actresses Rita Moreno and Dania Ramirez guest co-host.</p>",
+	"show": {
+		"id": 6049,
+		"url": "http://www.tvmaze.com/shows/6049/the-talk",
+		"name": "The Talk",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2011-09-27",
+		"officialSite": "http://www.cbs.com/shows/the_talk/",
+		"schedule": {
+			"time": "14:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 92,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 26645,
+			"thetvdb": 245071,
+			"imdb": "tt1740718"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/41/103196.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/41/103196.jpg"
+		},
+		"summary": "<p>Inspired by a mother's group Sara Gilbert went to after she had her baby, <b>The Talk</b> is a group of moms who get together to talk family issues, current events, celebrity gossip, and personal stories. Hosted by Aisha Tyler, Julie Chen, Sara Gilbert, Sharon Osbourne and Sheryl Underwood. \"Remember every time is the right time to have The Talk\"<i>.</i></p>",
+		"updated": 1541944968,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/6049"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1559130"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1563592"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1563592"
+		}
+	}
+}, {
+	"id": 1564201,
+	"url": "http://www.tvmaze.com/episodes/1564201/hot-bench-5x55-worlds-smallest-dog-stolen-by-judge-acker",
+	"name": "World's Smallest Dog Stolen by Judge Acker?!",
+	"season": 5,
+	"number": 55,
+	"airdate": "2018-11-12",
+	"airtime": "15:30",
+	"airstamp": "2018-11-12T20:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 15218,
+		"url": "http://www.tvmaze.com/shows/15218/hot-bench",
+		"name": "Hot Bench",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2014-09-15",
+		"officialSite": "http://www.hotbench.tv/",
+		"schedule": {
+			"time": "15:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 91,
+		"network": {
+			"id": 72,
+			"name": "Syndication",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 286153,
+			"imdb": "tt3854942"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/129425.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/51/129425.jpg"
+		},
+		"summary": "<p>Three judges argue the merits of a case among themselves and render a verdict.</p>",
+		"updated": 1542013791,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/15218"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560139"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564201"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564201"
+		}
+	}
+}, {
+	"id": 1564202,
+	"url": "http://www.tvmaze.com/episodes/1564202/hot-bench-5x56-i-love-your-tax-return-not-you-i-love-a-nice-collapsing-ceiling",
+	"name": "I Love Your Tax Return, Not You!; I Love a Nice Collapsing Ceiling!",
+	"season": 5,
+	"number": 56,
+	"airdate": "2018-11-12",
+	"airtime": "15:30",
+	"airstamp": "2018-11-12T20:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 15218,
+		"url": "http://www.tvmaze.com/shows/15218/hot-bench",
+		"name": "Hot Bench",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2014-09-15",
+		"officialSite": "http://www.hotbench.tv/",
+		"schedule": {
+			"time": "15:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 91,
+		"network": {
+			"id": 72,
+			"name": "Syndication",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 286153,
+			"imdb": "tt3854942"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/129425.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/51/129425.jpg"
+		},
+		"summary": "<p>Three judges argue the merits of a case among themselves and render a verdict.</p>",
+		"updated": 1542013791,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/15218"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560139"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564201"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564202"
+		}
+	}
+}, {
+	"id": 1562745,
+	"url": "http://www.tvmaze.com/episodes/1562745/judge-judy-23x67-guess-which-breed-of-dog-annihilates-another-upcoming-rap-star-bling-cat-litter-eating-puppy",
+	"name": "Guess Which Breed of Dog Annihilates Another!; Upcoming Rap Star Bling!; Cat-Litter Eating Puppy?!",
+	"season": 23,
+	"number": 67,
+	"airdate": "2018-11-12",
+	"airtime": "16:00",
+	"airstamp": "2018-11-12T21:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 7364,
+		"url": "http://www.tvmaze.com/shows/7364/judge-judy",
+		"name": "Judge Judy",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Legal"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2010-09-13",
+		"officialSite": "http://www.judgejudy.com/",
+		"schedule": {
+			"time": "16:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 5.4
+		},
+		"weight": 95,
+		"network": {
+			"id": 72,
+			"name": "Syndication",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 7960,
+			"thetvdb": 71221,
+			"imdb": "tt0115227"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/27/68009.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/27/68009.jpg"
+		},
+		"summary": "<p><b>Judge Judy</b> is a courtroom series stars former family court judge Judith Sheindlin. Each episode finds Judge Judy presiding over real small-claims cases inside a televised courtroom. Judge Judy brings her trademark wit and wisdom to the widely successful half-hour series where justice is dispensed at lightning speed.</p>",
+		"updated": 1541954524,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/7364"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560117"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1562745"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1562745"
+		}
+	}
+}, {
+	"id": 1562746,
+	"url": "http://www.tvmaze.com/episodes/1562746/judge-judy-23x68-shady-supervised-child-visits-bromance-party-fail",
+	"name": "Shady Supervised Child Visits?; Bromance Party Fail!",
+	"season": 23,
+	"number": 68,
+	"airdate": "2018-11-12",
+	"airtime": "16:00",
+	"airstamp": "2018-11-12T21:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 7364,
+		"url": "http://www.tvmaze.com/shows/7364/judge-judy",
+		"name": "Judge Judy",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Legal"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2010-09-13",
+		"officialSite": "http://www.judgejudy.com/",
+		"schedule": {
+			"time": "16:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 5.4
+		},
+		"weight": 95,
+		"network": {
+			"id": 72,
+			"name": "Syndication",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 7960,
+			"thetvdb": 71221,
+			"imdb": "tt0115227"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/27/68009.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/27/68009.jpg"
+		},
+		"summary": "<p><b>Judge Judy</b> is a courtroom series stars former family court judge Judith Sheindlin. Each episode finds Judge Judy presiding over real small-claims cases inside a televised courtroom. Judge Judy brings her trademark wit and wisdom to the widely successful half-hour series where justice is dispensed at lightning speed.</p>",
+		"updated": 1541954524,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/7364"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560117"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1562745"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1562746"
+		}
+	}
+}, {
+	"id": 1564101,
+	"url": "http://www.tvmaze.com/episodes/1564101/high-noon-9-am-pacific-2018-11-12-episode-85",
+	"name": "Episode 85",
+	"season": 2018,
+	"number": 85,
+	"airdate": "2018-11-12",
+	"airtime": "16:00",
+	"airstamp": "2018-11-12T21:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 36767,
+		"url": "http://www.tvmaze.com/shows/36767/high-noon-9-am-pacific",
+		"name": "High Noon (9 a.m. Pacific)",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2018-06-04",
+		"officialSite": null,
+		"schedule": {
+			"time": "16:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 73,
+		"network": {
+			"id": 39,
+			"name": "ESPN",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/158/396080.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/158/396080.jpg"
+		},
+		"summary": null,
+		"updated": 1542008691,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/36767"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560616"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564101"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564101"
+		}
+	}
+}, {
+	"id": 1564093,
+	"url": "http://www.tvmaze.com/episodes/1564093/highly-questionable-8x170-episode-170",
+	"name": "Episode 170",
+	"season": 8,
+	"number": 170,
+	"airdate": "2018-11-12",
+	"airtime": "16:30",
+	"airstamp": "2018-11-12T21:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 13169,
+		"url": "http://www.tvmaze.com/shows/13169/highly-questionable",
+		"name": "Highly Questionable",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2011-09-12",
+		"officialSite": "http://espn.go.com/espnradio/podcast/archive?id=6962629",
+		"schedule": {
+			"time": "16:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 87,
+		"network": {
+			"id": 181,
+			"name": "ESPNEWS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 296925,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/45/113364.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/45/113364.jpg"
+		},
+		"summary": "<p>Dan Le Batard, a frequent guest host on PTI, brings an innovative and comedic approach to sports commentary and will offer a critical--and sometimes controversial--perspective on the world of professional sports. Known for being a thoughtful and witty contrarian, Le Batard is not afraid to speak his mind and let his innate Miami and Cuban-American flavor shine through, which is apparent in the fast-paced show. Originally known as \"Dan Le Batard is... Highly Questionable\" but then shorten to just <b>Highly Questionable</b>.</p>",
+		"updated": 1542008668,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/13169"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560621"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564093"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564093"
+		}
+	}
+}, {
+	"id": 1559348,
+	"url": "http://www.tvmaze.com/episodes/1559348/naked-news-2018-11-12-2018-11-12",
+	"name": "2018-11-12",
+	"season": 2018,
+	"number": 270,
+	"airdate": "2018-11-12",
+	"airtime": "17:00",
+	"airstamp": "2018-11-12T22:00:00+00:00",
+	"runtime": 25,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 32095,
+		"url": "http://www.tvmaze.com/shows/32095/naked-news",
+		"name": "Naked News",
+		"type": "News",
+		"language": "English",
+		"genres": ["Adult"],
+		"status": "Running",
+		"runtime": 25,
+		"premiered": "1999-12-13",
+		"officialSite": null,
+		"schedule": {
+			"time": "17:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 8
+		},
+		"weight": 92,
+		"network": {
+			"id": 1035,
+			"name": "Playboy TV",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 266718,
+			"imdb": "tt0249044"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/128/321820.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/128/321820.jpg"
+		},
+		"summary": "<p><b>Naked News</b>, billing itself as \"the program with nothing to hide\", is a subscription website featuring a real television newscast. The show is prepared in Toronto and runs daily, with 25-minute episodes 6 days per week. The female anchors read the news fully nude or strip as they present their news segments. Naked News TV is its offshoot pay-per-view or subscription service. Naked News also aired briefly as a late night television series on Citytv Toronto.</p>",
+		"updated": 1541261462,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/32095"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1559347"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1559348"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1559348"
+		}
+	}
+}, {
+	"id": 1407837,
+	"url": "http://www.tvmaze.com/episodes/1407837/pardon-the-interruption-2018-11-12-episode-225",
+	"name": "Episode 225",
+	"season": 2018,
+	"number": 186,
+	"airdate": "2018-11-12",
+	"airtime": "17:30",
+	"airstamp": "2018-11-12T22:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 11968,
+		"url": "http://www.tvmaze.com/shows/11968/pardon-the-interruption",
+		"name": "Pardon the Interruption",
+		"type": "Sports",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2013-06-03",
+		"officialSite": "http://espn.go.com/eoe/pti.html",
+		"schedule": {
+			"time": "17:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 89,
+		"network": {
+			"id": 39,
+			"name": "ESPN",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 266681,
+			"imdb": "tt0307800"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189360.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189360.jpg"
+		},
+		"summary": "<p><b>Pardon the Interruption</b> is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</p>",
+		"updated": 1529347165,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/11968"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1407836"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1407837"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1407837"
+		}
+	}
+}, {
+	"id": 1539354,
+	"url": "http://www.tvmaze.com/episodes/1539354/pbs-newshour-2018-11-12-november-12-2018",
+	"name": "November 12, 2018",
+	"season": 2018,
+	"number": 226,
+	"airdate": "2018-11-12",
+	"airtime": "18:00",
+	"airstamp": "2018-11-12T23:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 10563,
+		"url": "http://www.tvmaze.com/shows/10563/pbs-newshour",
+		"name": "PBS NewsHour",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "1975-10-20",
+		"officialSite": "http://www.pbs.org/newshour/",
+		"schedule": {
+			"time": "18:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 0,
+		"network": {
+			"id": 85,
+			"name": "PBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 81388,
+			"imdb": "tt0247880"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/35/89115.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/35/89115.jpg"
+		},
+		"summary": "<p><b>PBS NewsHour</b> is the long running news magazine broadcast every weeknight on PBS. The show was created by veteran newsmen Robert MacNeil &amp; Jim Lehrer, and has been on the air since 1975. In 2009, the show, previously known as The NewsHour With Jim Lehrer, became PBS NewsHour. One of the major differences between network news and the PBS NewsHour is that because the show is publicly funded, there are no commercials. This allows the NewsHour to dedicate more time to comprehensive reporting.</p>",
+		"updated": 1538474790,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/10563"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1539353"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1539354"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1539354"
+		}
+	}
+}, {
+	"id": 1564239,
+	"url": "http://www.tvmaze.com/episodes/1564239/nbc-nightly-news-2018-11-12-nov-12-mon",
+	"name": "Nov 12 Mon",
+	"season": 2018,
+	"number": 311,
+	"airdate": "2018-11-12",
+	"airtime": "18:30",
+	"airstamp": "2018-11-12T23:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 9539,
+		"url": "http://www.tvmaze.com/shows/9539/nbc-nightly-news",
+		"name": "NBC Nightly News",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2013-07-20",
+		"officialSite": "http://www.nbcnews.com/nightly-news?cid=sky|ps_Google_NNNQ4",
+		"schedule": {
+			"time": "18:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 78,
+		"network": {
+			"id": 1,
+			"name": "NBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 139911,
+			"imdb": "tt0231035"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/33/83406.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/33/83406.jpg"
+		},
+		"summary": "<p><b>NBC Nightly News</b> (titled as <i>NBC Nightly News with Lester Holt</i> for its weeknight broadcasts since June 22, 2015) is the flagship daily evening television news program for NBC News, the news division of the NBC television network in the United States. First aired on August 3, 1970, the program is currently the most watched network newscast in the United States, with an average of 9.3 million viewers, just a few thousand more than its nearest rival, ABC's <i>World News Tonight</i>. <i>NBC Nightly News</i> is produced from Studio 3B at NBC Studios at 30 Rockefeller Center in New York City.</p><p>Since 2015, the broadcast is anchored by Lester Holt on weeknights, Jose Diaz-Balart on Saturday and Kate Snow on Sunday. Previous weekday anchors have included David Brinkley, John Chancellor, Tom Brokaw, and most recently Brian Williams. The program is broadcast live over most NBC stations from 6:30 to 7:00 p.m. Eastern Time seven days a week; a special \"Western Edition\" of the program occasionally features updated information on news stories covered during the original telecast for Pacific Time Zone viewers. Its current theme music, \"The Mission\" (which debuted in 1985) was composed by John Williams.</p>",
+		"updated": 1542015455,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/9539"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555761"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564239"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564239"
+		}
+	}
+}, {
+	"id": 1555639,
+	"url": "http://www.tvmaze.com/episodes/1555639/the-loud-house-3x39-the-loudest-thanksgiving",
+	"name": "The Loudest Thanksgiving",
+	"season": 3,
+	"number": 39,
+	"airdate": "2018-11-12",
+	"airtime": "19:00",
+	"airstamp": "2018-11-13T00:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": "<p>Faced with spending Thanksgiving apart, Lori and Bobby try to bring their crazy families together for the first time.</p>",
+	"show": {
+		"id": 6405,
+		"url": "http://www.tvmaze.com/shows/6405/the-loud-house",
+		"name": "The Loud House",
+		"type": "Animation",
+		"language": "English",
+		"genres": ["Comedy", "Children", "Family"],
+		"status": "Running",
+		"runtime": 15,
+		"premiered": "2016-05-02",
+		"officialSite": "http://www.nick.com/loud-house/",
+		"schedule": {
+			"time": "19:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.3
+		},
+		"weight": 95,
+		"network": {
+			"id": 27,
+			"name": "Nickelodeon",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 309726,
+			"imdb": "tt4859164"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/24/61289.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/24/61289.jpg"
+		},
+		"summary": "<p><b>The Loud House</b> focuses on Lincoln Loud, an 11-year-old boy, who lives in a house with his ten sisters—eldest sister Lori, unintelligent yet beautiful blonde Leni, aspiring rock star Luna, jokester and comedienne Luan, energetic athlete Lynn, gloomy emo Lucy, personality-opposite twins Lola and Lana, intellectual genius Lisa and baby Lily—and how he tries to survive as the only son in the family by finding creative solutions to the ordinary and chaotic problems in the household.</p>",
+		"updated": 1541271019,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/6405"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1537499"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555639"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1555639"
+		}
+	}
+}, {
+	"id": 1556254,
+	"url": "http://www.tvmaze.com/episodes/1556254/erin-burnett-outfront-8x224-monday-november-12-2018",
+	"name": "Monday November 12, 2018",
+	"season": 8,
+	"number": 224,
+	"airdate": "2018-11-12",
+	"airtime": "19:00",
+	"airstamp": "2018-11-13T00:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 9072,
+		"url": "http://www.tvmaze.com/shows/9072/erin-burnett-outfront",
+		"name": "Erin Burnett OutFront",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2011-10-03",
+		"officialSite": "http://www.cnn.com/shows/erin-burnett-out-front",
+		"schedule": {
+			"time": "19:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 61,
+		"network": {
+			"id": 40,
+			"name": "CNN",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/32/80206.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/32/80206.jpg"
+		},
+		"summary": "<p><b>Erin Burnett OutFront </b>is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace <i>John King, USA</i>. CNN said in 2011 they hoped Burnett's expected popularity would provide an \"attractive\" opening to an evening of \"talk shows and news analysis\". <i>Erin Burnett, OutFront</i> is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</p>",
+		"updated": 1541981762,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/9072"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556253"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556254"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1556254"
+		}
+	}
+}, {
+	"id": 1561801,
+	"url": "http://www.tvmaze.com/episodes/1561801/wheel-of-fortune-2018-11-12-gac-washington-dc-day-1",
+	"name": "GAC Washington, D.C. Day 1",
+	"season": 2018,
+	"number": 161,
+	"airdate": "2018-11-12",
+	"airtime": "19:00",
+	"airstamp": "2018-11-13T00:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 2199,
+		"url": "http://www.tvmaze.com/shows/2199/wheel-of-fortune",
+		"name": "Wheel of Fortune",
+		"type": "Game Show",
+		"language": "English",
+		"genres": ["Family"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2016-06-13",
+		"officialSite": null,
+		"schedule": {
+			"time": "19:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 95,
+		"network": {
+			"id": 72,
+			"name": "Syndication",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 7001,
+			"thetvdb": 76573,
+			"imdb": "tt0072584"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30416.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30416.jpg"
+		},
+		"summary": "<p>With more than 30 million viewers per week, <b>Wheel of Fortune</b> has been the #1 syndicated game show since its inception. It has earned six Daytime Emmy Awards, including the 2011 Emmy for Outstanding Game/Audience Participation Show. The series continues to attract a larger audience than many Primetime TV shows.</p>",
+		"updated": 1541651805,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/2199"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561800"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561801"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561801"
+		}
+	}
+}, {
+	"id": 1550786,
+	"url": "http://www.tvmaze.com/episodes/1550786/jeopardy-2018-11-12-2018-teen-tournament-semifinal-game-1-show-7861",
+	"name": "2018 Teen Tournament Semifinal Game 1, show # 7861",
+	"season": 2018,
+	"number": 196,
+	"airdate": "2018-11-12",
+	"airtime": "19:30",
+	"airstamp": "2018-11-13T00:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": "<p>2018 Teen Tournament Semifinal Game 1</p>",
+	"show": {
+		"id": 2193,
+		"url": "http://www.tvmaze.com/shows/2193/jeopardy",
+		"name": "Jeopardy!",
+		"type": "Game Show",
+		"language": "English",
+		"genres": ["Family"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "1984-09-10",
+		"officialSite": "https://www.jeopardy.com/",
+		"schedule": {
+			"time": "19:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 9
+		},
+		"weight": 94,
+		"network": {
+			"id": 72,
+			"name": "Syndication",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 7879,
+			"thetvdb": 77075,
+			"imdb": "tt0159881"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30370.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30370.jpg"
+		},
+		"summary": "<p><b>Jeopardy!</b> is a classic game show -- with a twist. The answers are given first, and the contestants supply the questions. Three contestants, including the previous show's champion, compete in six categories and in three rounds (with each round's \"answers\" being worth more prize money).</p><p>Contestant images from 2015 onwards are provided courtesy of Fikkle Fame.</p>",
+		"updated": 1541992237,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/2193"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1550785"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1550786"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1550786"
+		}
+	}
+}, {
+	"id": 1564089,
+	"url": "http://www.tvmaze.com/episodes/1564089/vice-news-tonight-3x184-episode-393",
+	"name": "Episode 393",
+	"season": 3,
+	"number": 184,
+	"airdate": "2018-11-12",
+	"airtime": "19:30",
+	"airstamp": "2018-11-13T00:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 21108,
+		"url": "http://www.tvmaze.com/shows/21108/vice-news-tonight",
+		"name": "VICE News Tonight",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2016-10-10",
+		"officialSite": "https://news.vice.com/en_us/topic/vice-news-tonight",
+		"schedule": {
+			"time": "19:30",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+		},
+		"rating": {
+			"average": 8.5
+		},
+		"weight": 84,
+		"network": {
+			"id": 8,
+			"name": "HBO",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/78/196167.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/78/196167.jpg"
+		},
+		"summary": "<p><b>VICE News Tonight</b> which premieres Oct. 10 (weeknights, 7:30 ET/PT) as the network's first daily series, won't just rehash the major stories of the day for those playing catch-up. Instead, the half-hour program assumes that viewers have already read the headlines on their phones and laptops, and want a more well-rounded, in-depth look at what's happening around the world.</p>",
+		"updated": 1542008645,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/21108"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560611"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564089"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564089"
+		}
+	}
+}, {
+	"id": 1523879,
+	"url": "http://www.tvmaze.com/episodes/1523879/arrow-7x05-the-demon",
+	"name": "The Demon",
+	"season": 7,
+	"number": 5,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Felicity learns something new about Oliver that shocks her. Meanwhile, Diggle asks Curtis to go undercover for ARGUS. Dinah works with an unlikely ally.</p>",
+	"show": {
+		"id": 4,
+		"url": "http://www.tvmaze.com/shows/4/arrow",
+		"name": "Arrow",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Action", "Science-Fiction"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2012-10-10",
+		"officialSite": "http://www.cwtv.com/shows/arrow",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.5
+		},
+		"weight": 100,
+		"network": {
+			"id": 5,
+			"name": "The CW",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 30715,
+			"thetvdb": 257655,
+			"imdb": "tt2193021"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/165/414895.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/165/414895.jpg"
+		},
+		"summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. He returned home to Starling City, welcomed by his devoted mother Moira, beloved sister Thea and former flame Laurel Lance. With the aid of his trusted chauffeur/bodyguard John Diggle, the computer-hacking skills of Felicity Smoak and the occasional, reluctant assistance of former police detective, now beat cop, Quentin Lance, Oliver has been waging a one-man war on crime.</p>",
+		"updated": 1541782046,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/4"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1517801"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1523879"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1523879"
+		}
+	}
+}, {
+	"id": 1551635,
+	"url": "http://www.tvmaze.com/episodes/1551635/the-voice-15x15-live-playoffs-top-24",
+	"name": "Live Playoffs Top 24",
+	"season": 15,
+	"number": 15,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 120,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 70,
+		"url": "http://www.tvmaze.com/shows/70/the-voice",
+		"name": "The Voice",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Family", "Music"],
+		"status": "Running",
+		"runtime": 120,
+		"premiered": "2011-04-26",
+		"officialSite": "http://www.nbc.com/the-voice",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday", "Tuesday"]
+		},
+		"rating": {
+			"average": 7.6
+		},
+		"weight": 98,
+		"network": {
+			"id": 1,
+			"name": "NBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 27447,
+			"thetvdb": 247824,
+			"imdb": "tt1839337"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/169/423587.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/169/423587.jpg"
+		},
+		"summary": "<p><b>The Voice</b> is a reality singing competition show where the idea is to find new singing talent via a series of auditions.</p>",
+		"updated": 1541779307,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/70"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1551634"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1551635"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1551635"
+		}
+	}
+}, {
+	"id": 1552466,
+	"url": "http://www.tvmaze.com/episodes/1552466/wwe-monday-night-raw-25x46-kansas-city-mo",
+	"name": "Kansas City, MO",
+	"season": 25,
+	"number": 46,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 185,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 802,
+		"url": "http://www.tvmaze.com/shows/802/wwe-monday-night-raw",
+		"name": "WWE Monday Night RAW",
+		"type": "Sports",
+		"language": "English",
+		"genres": ["Action"],
+		"status": "Running",
+		"runtime": 185,
+		"premiered": "1993-01-11",
+		"officialSite": "http://www.wwe.com/",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.8
+		},
+		"weight": 95,
+		"network": {
+			"id": 30,
+			"name": "USA Network",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": {
+			"id": 15,
+			"name": "WWE Network",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"externals": {
+			"tvrage": 6659,
+			"thetvdb": 76779,
+			"imdb": "tt0185103"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/15612.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/6/15612.jpg"
+		},
+		"summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
+		"updated": 1540389004,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/802"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1532219"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1552466"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1552466"
+		}
+	}
+}, {
+	"id": 1555969,
+	"url": "http://www.tvmaze.com/episodes/1555969/the-neighborhood-1x07-welcome-to-the-barbershop",
+	"name": "Welcome to the Barbershop",
+	"season": 1,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": "<p>When Dave drops by Calvin's longtime barbershop, he's quickly embraced by its owner and patrons, much to Calvin's consternation.</p>",
+	"show": {
+		"id": 35839,
+		"url": "http://www.tvmaze.com/shows/35839/the-neighborhood",
+		"name": "The Neighborhood",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Comedy", "Family"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2018-10-01",
+		"officialSite": "https://www.cbs.com/shows/the-neighborhood/",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 5.9
+		},
+		"weight": 99,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 348851,
+			"imdb": "tt7942794"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/163/408877.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/163/408877.jpg"
+		},
+		"summary": "<p><b>The Neighborhood</b> telling about what happens when the friendliest guy in the Midwest moves his family to a neighborhood in Los Angeles where not everyone looks like him or appreciates his extreme neighborliness. When Dave Johnsonand his family arrive from Michigan, they're unfazed that their new dream home is located in a community quite different from their small town. However, their opinionated next-door neighbor, Calvin Butler, is wary of the newcomers, certain that they'll disrupt the culture on the block. Dave realizes that fitting into their new community is more complex than he expected, but if he can find a way to connect with Calvin, they have an excellent chance of making their new neighborhood their home.</p>",
+		"updated": 1541679881,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/35839"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1545349"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555969"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1555969"
+		}
+	}
+}, {
+	"id": 1556260,
+	"url": "http://www.tvmaze.com/episodes/1556260/anderson-cooper-360-16x224-monday-november-12-2018",
+	"name": "Monday November 12, 2018",
+	"season": 16,
+	"number": 224,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 9070,
+		"url": "http://www.tvmaze.com/shows/9070/anderson-cooper-360",
+		"name": "Anderson Cooper 360°",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2003-09-08",
+		"officialSite": "http://www.cnn.com/shows/ac-360",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 68,
+		"network": {
+			"id": 40,
+			"name": "CNN",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/129/324367.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/129/324367.jpg"
+		},
+		"summary": "<p><b>Anderson Cooper 360°</b> (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</p>",
+		"updated": 1541981815,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/9070"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556259"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556260"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1556260"
+		}
+	}
+}, {
+	"id": 1556927,
+	"url": "http://www.tvmaze.com/episodes/1556927/love-hip-hop-hollywood-5x17-reunion-part-1",
+	"name": "Reunion Part 1",
+	"season": 5,
+	"number": 17,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 3067,
+		"url": "http://www.tvmaze.com/shows/3067/love-hip-hop-hollywood",
+		"name": "Love & Hip Hop Hollywood",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2014-09-15",
+		"officialSite": "http://www.vh1.com/shows/love-and-hip-hop-hollywood/",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 6.2
+		},
+		"weight": 86,
+		"network": {
+			"id": 55,
+			"name": "VH1",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 285795,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/17/42562.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/17/42562.jpg"
+		},
+		"summary": "<p>VH1 is going back to Cali for the second season of <b>Love &amp; Hip Hop: Hollywood</b>. Premiering on Monday, September 7 at 8PM*, the new cast is willing to lay it all on the line, striving to leave a permanent mark on the music industry despite sacrifices they may be forced to make. Devoted to pursuing their dreams in both career and romance, these artists must strike a balance between work and play against the backdrop of the Hollywood Hills.</p><p>This season of <i>Love &amp; Hip Hop: Hollywood</i> will explore one of the most complex relationships in franchise history. Miles, a west coast rapper, who was raised with church values bravely faces his truth, when he realizes he's in love with Milan, an openly gay man. The struggle becomes complicated for Miles because his best friend and childhood sweetheart, Amber, is still in love with him. The season follows Miles and Milan's difficult and emotional journey as they deal with the stigmas often associated with intimate relationships between black men in the music industry.</p>",
+		"updated": 1541625724,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/3067"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556926"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556927"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1556927"
+		}
+	}
+}, {
+	"id": 1561164,
+	"url": "http://www.tvmaze.com/episodes/1561164/dancing-with-the-stars-27x10-week-8-semi-finals",
+	"name": "Week 8: Semi-Finals",
+	"season": 27,
+	"number": 10,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 120,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 71,
+		"url": "http://www.tvmaze.com/shows/71/dancing-with-the-stars",
+		"name": "Dancing with the Stars",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Music"],
+		"status": "Running",
+		"runtime": 120,
+		"premiered": "2005-06-01",
+		"officialSite": "http://abc.go.com/shows/dancing-with-the-stars",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 4.7
+		},
+		"weight": 94,
+		"network": {
+			"id": 3,
+			"name": "ABC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 3220,
+			"thetvdb": 79590,
+			"imdb": "tt0463398"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/501.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/0/501.jpg"
+		},
+		"summary": "<p><b>Dancing with the Stars</b> is an american dance competition show and especially the american version of the british show <i>Strictly Come Dancing</i>.</p>",
+		"updated": 1541466807,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/71"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561163"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561164"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561164"
+		}
+	}
+}, {
+	"id": 1561309,
+	"url": "http://www.tvmaze.com/episodes/1561309/long-island-medium-13x06-sitcom-spirits",
+	"name": "Sitcom Spirits",
+	"season": 13,
+	"number": 6,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 7175,
+		"url": "http://www.tvmaze.com/shows/7175/long-island-medium",
+		"name": "Long Island Medium",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2011-09-25",
+		"officialSite": "http://www.tlc.com/tv-shows/long-island-medium/",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 8.2
+		},
+		"weight": 90,
+		"network": {
+			"id": 80,
+			"name": "TLC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 29291,
+			"thetvdb": 252125,
+			"imdb": "tt2010806"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/67000.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/26/67000.jpg"
+		},
+		"summary": "<p><b>Long Island Medium</b> is a series that follows real-life psychic medium Theresa Caputo as she takes clients on an emotional and spiritual journey with the afterlife. As a psychic medium, Theresa has an ability that most people can't comprehend. She spends her days helping individuals find closure and connects people to their loved ones who have passed in order to validate that they are still with them. For Theresa, this is not just her job, this is her life, as she tries to balance the past with the present on a daily basis.</p>",
+		"updated": 1541625892,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/7175"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1552443"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561309"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561309"
+		}
+	}
+}, {
+	"id": 1563108,
+	"url": "http://www.tvmaze.com/episodes/1563108/dateline-secrets-uncovered-2018-11-12-the-silhouette",
+	"name": "The Silhouette",
+	"season": 2018,
+	"number": 52,
+	"airdate": "2018-11-12",
+	"airtime": "20:00",
+	"airstamp": "2018-11-13T01:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Debbie Kelly and Lars Itzo make their marriage of opposites work; then, Debbie is shot dead in the dark of night; investigators ask whether her death is a case of mistaken identity or the bloody end to a marriage gone bad.</p>",
+	"show": {
+		"id": 28183,
+		"url": "http://www.tvmaze.com/shows/28183/dateline-secrets-uncovered",
+		"name": "Dateline: Secrets Uncovered",
+		"type": "Documentary",
+		"language": "English",
+		"genres": ["Drama", "Crime", "Mystery"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2017-07-21",
+		"officialSite": "http://www.oxygen.com/dateline-secrets-uncovered",
+		"schedule": {
+			"time": "20:00",
+			"days": ["Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 95,
+		"network": {
+			"id": 79,
+			"name": "Oxygen",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/120/302256.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/120/302256.jpg"
+		},
+		"summary": "<p>Real-life mysteries. Investigative reporting. Justice. Dateline is the long-running, award winning newsmagazine bringing viewers stories ranging from compelling mysteries to powerful documentaries and in-depth investigations. Hosted by NBC News' Craig Melvin, each episode of <b>Dateline: Secrets Uncovered</b> incorporates the classic elements of drama and great storytelling: good guys, bad guys, conflict with the highest stakes, suspense and resolution. Hear the chilling tales directly from those most affected and involved, including investigators tasked with cracking the case and the families confronting tragedy. In every story we tell, we help the real people who lived the events share their journeys with you.</p>",
+		"updated": 1541837629,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/28183"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1563107"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1563108"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1563108"
+		}
+	}
+}, {
+	"id": 1551643,
+	"url": "http://www.tvmaze.com/episodes/1551643/happy-together-1x07-how-jake-and-claire-met",
+	"name": "How Jake and Claire Met",
+	"season": 1,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "20:30",
+	"airstamp": "2018-11-13T01:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": "<p>When Cooper asks Jake and Claire how they met, Jake keeps embellishing the story of their college romance, while Claire points out the real details of their early relationship.</p>",
+	"show": {
+		"id": 36768,
+		"url": "http://www.tvmaze.com/shows/36768/happy-together",
+		"name": "Happy Together",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2018-10-01",
+		"officialSite": "https://www.cbs.com/shows/happy-together/",
+		"schedule": {
+			"time": "20:30",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 3.9
+		},
+		"weight": 98,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 347692,
+			"imdb": "tt7976568"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/165/412641.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/165/412641.jpg"
+		},
+		"summary": "<p>Jake, an accountant, and his dream wife, Claire, a restaurant and bar designer, are very comfortably settled into their marriage, enjoying evenings together on the couch watching TV and scheduling time to change their outgoing voicemail message. Their tame routine gets a makeover when Jake's client, exuberant music superstar Cooper James, arrives on their doorstep looking for refuge from the paparazzi following a high-profile break-up with his girlfriend. Jake and Claire quickly discover there's no way they can keep up with their world-famous houseguest's effortlessly cool, fast-paced lifestyle. Cooper, however, enjoys Jake and Claire's more relaxed way of life, discovering that a touch of ordinary can be extraordinary for all three of them.</p>",
+		"updated": 1541679908,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/36768"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1549542"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1551643"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1551643"
+		}
+	}
+}, {
+	"id": 1513440,
+	"url": "http://www.tvmaze.com/episodes/1513440/dcs-legends-of-tomorrow-4x04-wet-hot-american-bummer",
+	"name": "Wet Hot American Bummer",
+	"season": 4,
+	"number": 4,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>When the Legends discover that kids at a summer camp have disappeared, Sara, Ava, Ray and Constantine find themselves as the new camp counselors. At camp, Ava struggles to get along with the kids, but Constantine whips up a potion that helps Sara and Ava bond with the children. Luckily, the team finds clues to the whereabouts of the missing kids, but the battle to save them leaves one member in bad shape. Meanwhile, Rory and Zari are tasked with watching the fugitive and Rory finds a kindship with their \"prisoner.\"</p>",
+	"show": {
+		"id": 1851,
+		"url": "http://www.tvmaze.com/shows/1851/dcs-legends-of-tomorrow",
+		"name": "DC's Legends of Tomorrow",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Action", "Science-Fiction"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2016-01-21",
+		"officialSite": "http://www.cwtv.com/shows/dcs-legends-of-tomorrow",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.2
+		},
+		"weight": 100,
+		"network": {
+			"id": 5,
+			"name": "The CW",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 48407,
+			"thetvdb": 295760,
+			"imdb": "tt4532368"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/169/424484.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/169/424484.jpg"
+		},
+		"summary": "<p>When heroes alone are not enough... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat - one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?</p>",
+		"updated": 1541831774,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/1851"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1506950"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1513440"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1513440"
+		}
+	}
+}, {
+	"id": 1547586,
+	"url": "http://www.tvmaze.com/episodes/1547586/parker-plays-2x05-slime-and-pirates",
+	"name": "Slime and Pirates!",
+	"season": 2,
+	"number": 5,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 30477,
+		"url": "http://www.tvmaze.com/shows/30477/parker-plays",
+		"name": "Parker Plays",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2017-07-15",
+		"officialSite": null,
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 74,
+		"network": {
+			"id": 25,
+			"name": "Disney XD",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 332046,
+			"imdb": "tt7026436"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/120/301447.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/120/301447.jpg"
+		},
+		"summary": "<p>In <b>Parker Plays</b>, Parker Coppins, star of a popular YouTube gaming channel, offers comedic gameplay commentary on a variety of games.</p>",
+		"updated": 1539698024,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/30477"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1547585"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1547586"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1547586"
+		}
+	}
+}, {
+	"id": 1547649,
+	"url": "http://www.tvmaze.com/episodes/1547649/the-real-housewives-of-orange-county-13x17-friends-and-enemas",
+	"name": "Friends And Enemas",
+	"season": 13,
+	"number": 17,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 846,
+		"url": "http://www.tvmaze.com/shows/846/the-real-housewives-of-orange-county",
+		"name": "The Real Housewives of Orange County",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2006-03-21",
+		"officialSite": "http://www.bravotv.com/the-real-housewives-of-orange-county",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 5.8
+		},
+		"weight": 89,
+		"network": {
+			"id": 52,
+			"name": "Bravo",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 7218,
+			"thetvdb": 80117,
+			"imdb": "tt0497079"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/15833.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/6/15833.jpg"
+		},
+		"summary": "<p>These ladies show no signs of slowing down and although they may be enjoying the sunny SoCal lifestyle, replete with plastic surgery and frequent shopping sprees, real life still manages to find them, even in the land of excess and indulgence on <b>The Real Housewives of Orange County</b>.</p>",
+		"updated": 1541644606,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/846"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1544262"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1547649"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1547649"
+		}
+	}
+}, {
+	"id": 1547762,
+	"url": "http://www.tvmaze.com/episodes/1547762/good-eats-reloaded-1x05-for-whom-the-cheese-melts-the-reload",
+	"name": "For Whom the Cheese Melts: The Reload",
+	"season": 1,
+	"number": 5,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": "<p>Alton Brown \"reloads\" his classic fondue show with some cheesy science and a completely new recipe, because he really didn't like the first one that much anyway. The Lady of the Refrigerator returns and boy, is she mad! (Listed as S01E04)</p>",
+	"show": {
+		"id": 38785,
+		"url": "http://www.tvmaze.com/shows/38785/good-eats-reloaded",
+		"name": "Good Eats: Reloaded",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Food"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2018-10-15",
+		"officialSite": "https://www.cookingchanneltv.com/shows/good-eats-reloaded",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 90,
+		"network": {
+			"id": 174,
+			"name": "Cooking Channel",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 353025,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/420752.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/168/420752.jpg"
+		},
+		"summary": "<p>With each edition of <b>Good Eats: Reloaded</b>, show creator Alton Brown will be renovating, updating -- and in some cases, repairing -- classic episodes of the long-running series.</p>",
+		"updated": 1540908001,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/38785"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1547761"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1547762"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1547762"
+		}
+	}
+}, {
+	"id": 1547916,
+	"url": "http://www.tvmaze.com/episodes/1547916/magnum-pi-1x08-die-he-said",
+	"name": "Die He Said",
+	"season": 1,
+	"number": 8,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>A man dying of lymphoma hires Magnum to find his estranged, bone-marrow-compatible brother who turns out to need Magnum's help as well. Also, Magnum's case brings back haunted memories for the guys of a past SEAL team mission that went sideways.</p>",
+	"show": {
+		"id": 32819,
+		"url": "http://www.tvmaze.com/shows/32819/magnum-pi",
+		"name": "Magnum P.I.",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Action", "Crime"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-09-24",
+		"officialSite": "https://www.cbs.com/shows/magnum-pi/",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 6.1
+		},
+		"weight": 100,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 350068,
+			"imdb": "tt7942796"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/165/412706.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/165/412706.jpg"
+		},
+		"summary": "<p><b>Magnum P.I.</b> returns with all-new sun-drenched adventures as our hero takes jobs no one else will with the help of fellow vets T.C. Calvin and Rick Wright and the former MI:6 agent with a familiar last name (but now a female) - Higgins. Based on the 1980s series.</p>",
+		"updated": 1541886107,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/32819"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1547915"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1547916"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1547916"
+		}
+	}
+}, {
+	"id": 1555737,
+	"url": "http://www.tvmaze.com/episodes/1555737/love-it-or-list-it-14x15-the-impossible-dream-home",
+	"name": "The Impossible Dream Home",
+	"season": 14,
+	"number": 15,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 4857,
+		"url": "http://www.tvmaze.com/shows/4857/love-it-or-list-it",
+		"name": "Love It or List It",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2008-09-08",
+		"officialSite": "http://www.hgtv.com/shows/love-it-or-list-it",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 82,
+		"network": {
+			"id": 192,
+			"name": "HGTV",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 24617,
+			"thetvdb": 262419,
+			"imdb": "tt1773182"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/53367.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/21/53367.jpg"
+		},
+		"summary": "<p>When a house no longer feels like home, homeowners are left with a big financial and emotional question: renovate or sell it? <b>Love It or List It</b> helps fed-up homeowners decide. In each hour-long episode Realtor David Visentin and designer Hilary Farr compete for the homeowners' final decision to stay or go. David's insider perspective on the real estate market helps target listings to prospective buyers, but Hilary is determined to show homeowners that, within their budget, she can transform their worn-out house into a castle they can love. If the owners decide to list it, Hilary's hard work adds to the home's resale value. It's a tough decision either way. Which choice would you make?</p>",
+		"updated": 1540914682,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/4857"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1552743"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555737"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1555737"
+		}
+	}
+}, {
+	"id": 1556168,
+	"url": "http://www.tvmaze.com/episodes/1556168/teen-mom-8x07-tba",
+	"name": "TBA",
+	"season": 8,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 3277,
+		"url": "http://www.tvmaze.com/shows/3277/teen-mom",
+		"name": "Teen Mom",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Family"],
+		"status": "To Be Determined",
+		"runtime": 60,
+		"premiered": "2009-12-08",
+		"officialSite": "http://www.mtv.com/shows/teen_mom/",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 2
+		},
+		"weight": 93,
+		"network": {
+			"id": 22,
+			"name": "MTV",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 24465,
+			"thetvdb": 148561,
+			"imdb": "tt1566154"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/17/43890.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/17/43890.jpg"
+		},
+		"summary": "<p>In 16 and Pregnant, they were moms-to-be. Now, follow Farrah, Maci, Amber, and Catelynn as they face the challenges of motherhood in <b>Teen Mom</b>. Each episode interweaves these stories revealing the wide variety of challenges young mothers can face: marriage, relationships, family support, adoption, finances, graduating high school, starting college, getting a job, and the daunting and exciting step of moving out to create their own families.</p>",
+		"updated": 1541344761,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/3277"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556167"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556168"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1556168"
+		}
+	}
+}, {
+	"id": 1556267,
+	"url": "http://www.tvmaze.com/episodes/1556267/cuomo-prime-time-1x107-monday-november-12-2018",
+	"name": "Monday November 12, 2018",
+	"season": 1,
+	"number": 107,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 35353,
+		"url": "http://www.tvmaze.com/shows/35353/cuomo-prime-time",
+		"name": "Cuomo Prime Time",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-06-04",
+		"officialSite": "https://cnn.com/shows/cuomo-prime-time",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 71,
+		"network": {
+			"id": 40,
+			"name": "CNN",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/156/391559.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/156/391559.jpg"
+		},
+		"summary": "<p>Chris Cuomo gets after it with newsmakers in Washington and around the world.</p>",
+		"updated": 1541982010,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/35353"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556266"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556267"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1556267"
+		}
+	}
+}, {
+	"id": 1560701,
+	"url": "http://www.tvmaze.com/episodes/1560701/mama-medium-1x02-where-theres-smoke",
+	"name": "Where Theres Smoke",
+	"season": 1,
+	"number": 2,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Jennie performs an empathic read for a mother whose medical complication left her in a semi-vegetative state; does a group reading with clients who all have a unique connection in a shared tragedy; and gives healing to a woman who needs closure.</p>",
+	"show": {
+		"id": 39568,
+		"url": "http://www.tvmaze.com/shows/39568/mama-medium",
+		"name": "Mama Medium",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-11-05",
+		"officialSite": "https://www.tlc.com/tv-shows/mama-medium/",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 98,
+		"network": {
+			"id": 80,
+			"name": "TLC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 354089,
+			"imdb": "tt8681676"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434580.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434580.jpg"
+		},
+		"summary": "<p>TLC summons viewers to tune into its new series <b>Mama Medium</b>, a psychic experience unlike any other, featuring Jennie Marie, a doting wife and mother with a larger-than-life personality, who is gifted with the extraordinary ability to talk to the dead. Not only is she a medium, psychic, and fourth generation clairvoyant, but she also has an uncanny gift of connecting with people who are otherwise incapable of communicating for themselves. Throughout the series, Jennie Marie bridges the gap for people who are desperate to communicate with their loved ones, whether they've transitioned to the afterlife or suffered a life-altering incident. Every episode will showcase several readings, offering viewers a first-hand look at Jennie Marie's unique ability to connect with people on a deeper, more spiritual level.</p>",
+		"updated": 1541576822,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/39568"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560312"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560701"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1560701"
+		}
+	}
+}, {
+	"id": 1560854,
+	"url": "http://www.tvmaze.com/episodes/1560854/the-rachel-maddow-show-2018-11-12-episode-223",
+	"name": "Episode 223",
+	"season": 2018,
+	"number": 223,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 9065,
+		"url": "http://www.tvmaze.com/shows/9065/the-rachel-maddow-show",
+		"name": "The Rachel Maddow Show",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2008-09-08",
+		"officialSite": "http://www.msnbc.com/rachel-maddow-show",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 5.1
+		},
+		"weight": 90,
+		"network": {
+			"id": 201,
+			"name": "MSNBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 181561,
+			"imdb": "tt1280627"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/32/80181.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/32/80181.jpg"
+		},
+		"summary": "<p>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show <b>The Rachel Maddow Show</b>. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</p>",
+		"updated": 1541457418,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/9065"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560853"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560854"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1560854"
+		}
+	}
+}, {
+	"id": 1561173,
+	"url": "http://www.tvmaze.com/episodes/1561173/holiday-baking-championship-5x02-plenty-of-gratitude",
+	"name": "Plenty of Gratitude",
+	"season": 5,
+	"number": 2,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 6407,
+		"url": "http://www.tvmaze.com/shows/6407/holiday-baking-championship",
+		"name": "Holiday Baking Championship",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Food"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2014-11-09",
+		"officialSite": "http://www.foodnetwork.com/shows/holiday-baking-championship.html",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 90,
+		"network": {
+			"id": 81,
+			"name": "Food Network",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 45561,
+			"thetvdb": 288042,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/24/61290.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/24/61290.jpg"
+		},
+		"summary": "<p>On <b>Holiday Baking Championship</b> the search to find the greatest holiday baker begins as eight amateur bakers enter the kitchen, where they show off their family traditions and superb baking skills. To survive the challenges from week to week, they must prove their abilities in front of our tough-love judges: Duff Goldman, Nancy Fuller and Lorraine Pascale. Hosted by Bobby Deen, this baking championship is the sweetest way to celebrate this holiday season.</p>",
+		"updated": 1541856739,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/6407"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1541408"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561173"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561173"
+		}
+	}
+}, {
+	"id": 1561361,
+	"url": "http://www.tvmaze.com/episodes/1561361/family-time-6x07-its-about-to-be-lit",
+	"name": "It's About To Be Lit",
+	"season": 6,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 5560,
+		"url": "http://www.tvmaze.com/shows/5560/family-time",
+		"name": "Family Time",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Comedy", "Family"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2012-06-18",
+		"officialSite": "http://www.bouncetv.com/shows/family-time/",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Tuesday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 72,
+		"network": {
+			"id": 261,
+			"name": "BOUNCE TV",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 31883,
+			"thetvdb": 260185,
+			"imdb": "tt2163354"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/22/56405.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/22/56405.jpg"
+		},
+		"summary": "<p><b>Family Time</b> chronicles the lives of the Stallworths, who have recently relocated to the suburbs. High school sweethearts Tony Stallworth, a struggling general contractor, and Lisa Stallworth, an energetic stay-at-home mom, lovingly quarrel with each other and their mischievous children, Devin and Ebony, as they make up their own rules for love, marriage, and family along the way. When they are not battling each other, they are contending with a host of family, friends, and neighbors including Tony's financially challenged best friend Donnie and Lisa's feisty sisters Rachel and Lori in the tight-knit community of Windsor Hills.</p>",
+		"updated": 1541537853,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/5560"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1553460"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561361"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561361"
+		}
+	}
+}, {
+	"id": 1561448,
+	"url": "http://www.tvmaze.com/episodes/1561448/the-1990s-the-deadliest-decade-1x02-the-new-girl",
+	"name": "The New Girl",
+	"season": 1,
+	"number": 2,
+	"airdate": "2018-11-12",
+	"airtime": "21:00",
+	"airstamp": "2018-11-13T02:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>In rural Indiana, the badly burned body of a young woman is found in an open field. Soon, investigators discover a harrowing tale that leads back to witchcraft, a cast of troubled teens, and a surprising love triangle that was cursed from the start.</p>",
+	"show": {
+		"id": 39635,
+		"url": "http://www.tvmaze.com/shows/39635/the-1990s-the-deadliest-decade",
+		"name": "The 1990s: The Deadliest Decade",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Crime", "History"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-11-05",
+		"officialSite": "https://www.investigationdiscovery.com/tv-shows/1990s-the-deadliest-decade/",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 72,
+		"network": {
+			"id": 89,
+			"name": "Investigation Discovery",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 354610,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435018.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435018.jpg"
+		},
+		"summary": "<p>The sensational crimes that made national headlines during the 1990s.</p>",
+		"updated": 1541609518,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/39635"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561447"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561448"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561448"
+		}
+	}
+}, {
+	"id": 1538464,
+	"url": "http://www.tvmaze.com/episodes/1538464/manifest-1x07-snafu",
+	"name": "S.N.A.F.U.",
+	"season": 1,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>With the detained passengers secretly moved and subjected to painful experimentation - and Cal's health directly linked to them - Ben takes advantage of an old friend to find out where the passengers were taken. Meanwhile, a mysterious new version of the calling pulls Michaela into a murder investigation that has deep personal ramifications for her.</p>",
+	"show": {
+		"id": 31365,
+		"url": "http://www.tvmaze.com/shows/31365/manifest",
+		"name": "Manifest",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Thriller", "Mystery"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-09-24",
+		"officialSite": "https://www.nbc.com/manifest",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.7
+		},
+		"weight": 100,
+		"network": {
+			"id": 1,
+			"name": "NBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 349271,
+			"imdb": "tt8421350"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/155/388997.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/155/388997.jpg"
+		},
+		"summary": "<p>When Montego Air Flight 828 landed safely after a turbulent but routine flight, the crew and passengers were relieved. But in the span of those few hours, the world had aged five years - and their friends, families and colleagues, after mourning their loss, had given up hope and moved on. Now, faced with the impossible, they're all given a second chance. But as their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.</p>",
+		"updated": 1541526346,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/31365"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1538463"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1538464"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1538464"
+		}
+	}
+}, {
+	"id": 1542312,
+	"url": "http://www.tvmaze.com/episodes/1542312/bull-3x08-but-for-the-grace",
+	"name": "But for the Grace",
+	"season": 3,
+	"number": 8,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Bull takes on a pro bono client who was poorly advised by his public defender to plead guilty to a misdemeanor assault charge and is now facing felony manslaughter after the victim dies.</p>",
+	"show": {
+		"id": 12607,
+		"url": "http://www.tvmaze.com/shows/12607/bull",
+		"name": "Bull",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Crime", "Legal"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2016-09-20",
+		"officialSite": "http://www.cbs.com/shows/bull/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.1
+		},
+		"weight": 99,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 311945,
+			"imdb": "tt5827228"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422167.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422167.jpg"
+		},
+		"summary": "<p><b>Bull </b>stars Michael Weatherly as Dr. Jason Bull in a drama inspired by the early career of Dr. Phil McGraw, the founder of one of the most prolific trial consulting firms of all time. Brilliant, brash and charming, Dr. Bull is the ultimate puppet master as he combines psychology, human intuition and high tech data to learn what makes jurors, attorneys, witnesses and the accused tick. Bull employs an enviable team of experts at Trial Analysis Corporation to shape successful narratives down to the very last detail. They include his quick-witted former brother-in-law, Benny Colón, a lawyer who acts as defense attorney in the company's mock trials; Marissa Morgan, a cutting-edge neurolinguistics expert from the Department of Homeland Security; former NYPD detective Danny James, the firm's tough but relatable investigator; haughty millennial hacker Cable McCrory, who is responsible for gathering cyber intelligence; and Chunk Palmer, a fashion-conscious stylist and former All-American lineman who fine tunes clients' appearances for trial. In high-stakes trials, Bull's combination of remarkable insight into human nature, three Ph.D.'s and a top-notch staff creates winning strategies that tip the scales of justice in his clients' favor.</p>",
+		"updated": 1541682926,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/12607"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1549634"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1542312"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1542312"
+		}
+	}
+}, {
+	"id": 1546179,
+	"url": "http://www.tvmaze.com/episodes/1546179/independent-lens-20x03-the-cleaners",
+	"name": "The Cleaners",
+	"season": 20,
+	"number": 3,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 90,
+	"image": null,
+	"summary": "<p>Explore the shadow industry of \"content moderators\" and learn who controls what we see online.</p>",
+	"show": {
+		"id": 3692,
+		"url": "http://www.tvmaze.com/shows/3692/independent-lens",
+		"name": "Independent Lens",
+		"type": "Documentary",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 90,
+		"premiered": "1999-08-09",
+		"officialSite": "http://www.pbs.org/independentlens/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 90,
+		"network": {
+			"id": 85,
+			"name": "PBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 17675,
+			"thetvdb": 84082,
+			"imdb": "tt0486531"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/47448.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/18/47448.jpg"
+		},
+		"summary": "<p>Cameras follow an unconventional veteran of the Vietnam War as he rides his motorcycle with fellow servicemen to the Vietnam Memorial and runs a business with his wife while contending with the conflict's legacy and reaching out to others.</p>",
+		"updated": 1541608977,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/3692"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1546178"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1546179"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1546179"
+		}
+	}
+}, {
+	"id": 1549544,
+	"url": "http://www.tvmaze.com/episodes/1549544/christmas-cookie-challenge-2018-11-12-christmas-surprises",
+	"name": "Christmas Surprises",
+	"season": 2018,
+	"number": 2,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Host Eddie Jackson brings down his box of Christmas cookie cutters from the attic only to realize that it's actually his Halloween box! Now, five gifted cookie makers must hack the Halloween cutters into classic Christmas cookies. Judges Ree Drummond, Jordan Pilarski and Gesine Prado decide which cookies are frightfully festive and which are just frightful. After Halloween, there's no better way to count down the days to Christmas than with an advent calendar, so the talented bakers race against the clock to bake, decorate and assemble cookie calendars with surprises hidden behind each day. The best calendar earns one cookie maker a date with destiny and a $10,000 grand prize. (Listed as S02E04)</p>",
+	"show": {
+		"id": 22453,
+		"url": "http://www.tvmaze.com/shows/22453/christmas-cookie-challenge",
+		"name": "Christmas Cookie Challenge",
+		"type": "Reality",
+		"language": "English",
+		"genres": ["Food"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2015-11-28",
+		"officialSite": "http://www.foodnetwork.com/shows/food-network-specials/b-series/christmas-cookie-challenge.html",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 94,
+		"network": {
+			"id": 81,
+			"name": "Food Network",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 337326,
+			"imdb": "tt7674544"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/141/354635.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/141/354635.jpg"
+		},
+		"summary": "<p>Holiday cookies are more than mere sweets - they are gifts, mementos of childhood, and most certainly made with pride. In <b>Christmas Cookie Challenge</b>, five confident and daring bakers compete to prove their holiday cookie-making skills. Tough-love judges are on hand to crown the holiday cookie master, who will go home with a $10,000 prize!</p>",
+		"updated": 1541133209,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/22453"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1549543"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1549544"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1549544"
+		}
+	}
+}, {
+	"id": 1552751,
+	"url": "http://www.tvmaze.com/episodes/1552751/american-greed-deadly-rich-1x09-rocky-mountain-die",
+	"name": "Rocky Mountain Die",
+	"season": 1,
+	"number": 9,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Horror strikes the wealthy enclave of Aspen, Colo. when heiress Nancy Pfister is found brutally murdered in her mountain home; as police work to untangle a twisted web of suspects, a shocking confession puts a sudden end to the investigation.</p>",
+	"show": {
+		"id": 37767,
+		"url": "http://www.tvmaze.com/shows/37767/american-greed-deadly-rich",
+		"name": "American Greed: Deadly Rich",
+		"type": "Documentary",
+		"language": "English",
+		"genres": ["Crime"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-07-09",
+		"officialSite": "https://www.cnbc.com/deadly-rich/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 91,
+		"network": {
+			"id": 93,
+			"name": "CNBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 349857,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/162/405340.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/162/405340.jpg"
+		},
+		"summary": "<p><b>American Greed: Deadly Rich</b> is a true-crime series which takes viewers inside the lives and deaths of the one percent, exposing the dirty little secrets of how big money drives people to the ultimate sin. <i>Deadly Rich</i> features high profile cases and tells each story through first-person accounts from family members and friends of the victims to law enforcement. All of these cases lead to one thing - money and lots of it.</p>",
+		"updated": 1541301718,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/37767"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1546792"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1552751"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1552751"
+		}
+	}
+}, {
+	"id": 1552840,
+	"url": "http://www.tvmaze.com/episodes/1552840/people-magazine-investigates-3x02-terror-in-philadelphia",
+	"name": "Terror in Philadelphia",
+	"season": 3,
+	"number": 2,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 22247,
+		"url": "http://www.tvmaze.com/shows/22247/people-magazine-investigates",
+		"name": "People Magazine Investigates",
+		"type": "Documentary",
+		"language": "English",
+		"genres": ["Drama", "Crime", "Mystery"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2016-11-07",
+		"officialSite": "https://www.investigationdiscovery.com/tv-shows/people-magazine-investigates/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 81,
+		"network": {
+			"id": 89,
+			"name": "Investigation Discovery",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 319556,
+			"imdb": "tt5594440"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/205105.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/82/205105.jpg"
+		},
+		"summary": "<p>Ripped from the pages of one of the nation's top weekly magazines, <b>People Magazine Investigates</b> goes beyond the headlines to uncover the heart-wrenching stories of lives and families ripped apart. These are crime stories that transcended news and became part of popular culture. Interlaced within each episode are exclusive interviews with People's journalists and firsthand emotional interviews with those closest to the investigation revealing shocking twists, new evidence, and unexpected resolutions.</p>",
+		"updated": 1540551992,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/22247"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1552839"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1552840"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1552840"
+		}
+	}
+}, {
+	"id": 1553289,
+	"url": "http://www.tvmaze.com/episodes/1553289/the-good-doctor-2x07-hubert",
+	"name": "Hubert",
+	"season": 2,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Dr. Shaun Murphy and Dr. Morgan Reznick must contend with two brothers who are bargaining over life and death. Meanwhile, Dr. Claire Brown's friend who is dying of cancer asks her for something she doesn't think she can give her; and Dr. Aaron Glassman is dealing with the effects of his treatment.</p>",
+	"show": {
+		"id": 21845,
+		"url": "http://www.tvmaze.com/shows/21845/the-good-doctor",
+		"name": "The Good Doctor",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Drama", "Medical"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2017-09-25",
+		"officialSite": "http://abc.go.com/shows/the-good-doctor",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.7
+		},
+		"weight": 100,
+		"network": {
+			"id": 3,
+			"name": "ABC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 328634,
+			"imdb": "tt6470478"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422168.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422168.jpg"
+		},
+		"summary": "<p>Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Alone in the world and unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.</p>",
+		"updated": 1541857223,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/21845"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1548389"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1553289"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1553289"
+		}
+	}
+}, {
+	"id": 1555485,
+	"url": "http://www.tvmaze.com/episodes/1555485/live-pd-presents-women-on-patrol-1x35-episode-35",
+	"name": "Episode 35",
+	"season": 1,
+	"number": 35,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 36472,
+		"url": "http://www.tvmaze.com/shows/36472/live-pd-presents-women-on-patrol",
+		"name": "Live PD Presents: Women On Patrol",
+		"type": "Documentary",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2018-06-18",
+		"officialSite": "http://www.mylifetime.com/shows/live-pd-presents-women-on-patrol",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 80,
+		"network": {
+			"id": 18,
+			"name": "Lifetime",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/157/394911.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/157/394911.jpg"
+		},
+		"summary": "<p><b>Live PD Presents: Women On Patrol</b> will follow female law enforcement officers from around the country including departments in Jackson (WY), Wilmington (NC), Tempe (AZ) and Stockton (CA) as well as officers featured on Live PD. In the twenty-episode half-hour series, viewers are provided an unfiltered and unfettered look at the female officers on the front line of some of the busiest police forces in the country as they patrol their communities.</p>",
+		"updated": 1540854046,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/36472"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555484"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555485"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1555485"
+		}
+	}
+}, {
+	"id": 1556249,
+	"url": "http://www.tvmaze.com/episodes/1556249/cnn-tonight-with-don-lemon-5x208-monday-november-12-2018",
+	"name": "Monday November 12, 2018",
+	"season": 5,
+	"number": 208,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 120,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 9288,
+		"url": "http://www.tvmaze.com/shows/9288/cnn-tonight-with-don-lemon",
+		"name": "CNN Tonight with Don Lemon",
+		"type": "News",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 120,
+		"premiered": "2014-04-15",
+		"officialSite": "http://www.cnn.com/shows/cnn-tonight",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 68,
+		"network": {
+			"id": 40,
+			"name": "CNN",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/32/81715.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/32/81715.jpg"
+		},
+		"summary": "<p><i>CNN Tonight</i> is a newscast hosted by Don Lemon on CNN now called <b>CNN Tonight with Don Lemon</b> and broadcast around the world by CNN International, which debuted on April 15, 2014 in the 9:00 PM ET to 10:00 PM ET, timeslot as a replacement for <i>Piers Morgan Live</i> following its cancellation. In late May 2014, the show moved to its permanent home airing Monday through Thursday at 10:00 PM ET to 11:00 PM ET and Friday at 9:00 PM ET to 10:00 PM ET. The current iteration of the show features Lemon providing provocative commentary to the stories of the day joined by guests and commentators.</p><p>A program of the same name aired on CNN in the spring of 1985, as a replacement for Sandi Freeman until <i>Larry King Live</i> premiered. Another program of the same name debuted in 2001 with Bill Hemmer as anchor, but it was cancelled the same year. In 2010 another show with the name became an interim replacement for <i>Lou Dobbs Tonight</i>, following Lou Dobbs' resignation from the network on November 11, 2009.</p>",
+		"updated": 1541981884,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/9288"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556248"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556249"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1556249"
+		}
+	}
+}, {
+	"id": 1559290,
+	"url": "http://www.tvmaze.com/episodes/1559290/teen-mom-young-pregnant-2x06-episode-6",
+	"name": "Episode 6",
+	"season": 2,
+	"number": 6,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 34888,
+		"url": "http://www.tvmaze.com/shows/34888/teen-mom-young-pregnant",
+		"name": "Teen Mom: Young + Pregnant",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-03-05",
+		"officialSite": "http://www.mtv.com/shows/teen-mom-young-and-pregnant",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 92,
+		"network": {
+			"id": 22,
+			"name": "MTV",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 342726,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/146/366763.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/146/366763.jpg"
+		},
+		"summary": "<p>Ashley, Brianna, Jade, Kayla, and Lexi are five young women navigating the complexity of pregnancy and becoming young mothers.</p>",
+		"updated": 1541257183,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/34888"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1551558"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1559290"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1559290"
+		}
+	}
+}, {
+	"id": 1559292,
+	"url": "http://www.tvmaze.com/episodes/1559292/street-outlaws-memphis-2x04-damn-the-dmv",
+	"name": "Damn the DMV",
+	"season": 2,
+	"number": 4,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 34341,
+		"url": "http://www.tvmaze.com/shows/34341/street-outlaws-memphis",
+		"name": "Street Outlaws: Memphis",
+		"type": "Reality",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2018-01-15",
+		"officialSite": "https://www.discovery.com/tv-shows/street-outlaws-memphis/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 90,
+		"network": {
+			"id": 66,
+			"name": "Discovery Channel",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 340321,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/141/354970.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/141/354970.jpg"
+		},
+		"summary": "<p>In Memphis, it's all for one and one for all, and no one illustrates that sentiment better than JJ Da Boss and his \"Team Memphis\" crew. Along with his wife Tricia, who is known on the streets as \"Midget,\" and his cousin Precious, also known as the \"Queen of the Streets,\" fast-talking JJ welcomes viewers into his world where racing is all about pride and honor. Team Memphis has few rules, and its members often put their lives on the line for the hustle of the race. They are \"trying to beat ya, not cheat ya,\" and are available whenever a challenger emerges.</p>",
+		"updated": 1541257199,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/34341"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1551559"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1559292"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1559292"
+		}
+	}
+}, {
+	"id": 1560682,
+	"url": "http://www.tvmaze.com/episodes/1560682/busy-tonight-1x10-camila-mendes",
+	"name": "Camila Mendes",
+	"season": 1,
+	"number": 10,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 38669,
+		"url": "http://www.tvmaze.com/shows/38669/busy-tonight",
+		"name": "Busy Tonight",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2018-10-28",
+		"officialSite": "https://www.eonline.com/shows/busy_tonight",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Sunday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 93,
+		"network": {
+			"id": 43,
+			"name": "E!",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 351546,
+			"imdb": "tt8358938"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434573.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434573.jpg"
+		},
+		"summary": "<p>Hosted by actress Busy Philipps, <b>Busy Tonight</b> features comedic commentary, interviews, and segments that go behind her most popular Instagram stories. Unfiltered, in-the-know and always entertaining, Busy will give us her unique and hilarious point of view on literally everything.</p>",
+		"updated": 1542001482,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/38669"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560681"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560682"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1560682"
+		}
+	}
+}, {
+	"id": 1561189,
+	"url": "http://www.tvmaze.com/episodes/1561189/for-my-man-5x07-chicwanda-forbes-carter-cerantez",
+	"name": "Chicwanda Forbes; Carter Cerantez",
+	"season": 5,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Chicwanda Forbes gets the attention she craves from an older man in exchange for her loyalty; Carter Carol Cervantez begins to rethink her priorities when she finds love at the workplace.</p>",
+	"show": {
+		"id": 2921,
+		"url": "http://www.tvmaze.com/shows/2921/for-my-man",
+		"name": "For My Man",
+		"type": "Documentary",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2015-09-07",
+		"officialSite": "http://tvone.tv/22999/for-my-man-premieres-labor-day/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 63,
+		"network": {
+			"id": 224,
+			"name": "TV One",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 48323,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/31/79343.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/31/79343.jpg"
+		},
+		"summary": "<p><b>For My Man</b> features the outrageous and shocking stories of women who have been arrested for a crime they committed in the name of love. From a killing spree across the mid-west to an inside informant at the DEA, these women have no limits as to how far they will go to support their men. These are the stories of the obsessions and weakness that fueled their fall from grace.</p>",
+		"updated": 1541481137,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/2921"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561188"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561189"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561189"
+		}
+	}
+}, {
+	"id": 1561313,
+	"url": "http://www.tvmaze.com/episodes/1561313/long-lost-family-5x06-secrets-are-better-kept-than-said",
+	"name": "Secrets Are Better Kept Than Said",
+	"season": 5,
+	"number": 6,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 13900,
+		"url": "http://www.tvmaze.com/shows/13900/long-lost-family",
+		"name": "Long Lost Family",
+		"type": "Documentary",
+		"language": "English",
+		"genres": ["Drama", "Family"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2016-03-06",
+		"officialSite": "http://www.tlc.com/tv-shows/long-lost-family/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Sunday"]
+		},
+		"rating": {
+			"average": 7.3
+		},
+		"weight": 87,
+		"network": {
+			"id": 80,
+			"name": "TLC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 308407,
+			"imdb": "tt5455614"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/47/119411.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/47/119411.jpg"
+		},
+		"summary": "<p>A father of three hasn't seen his mom for 30 years--when he was 6 she walked into a grocery store but never came out. And a 54-year-old adoptee longs to meet her biological family. Chris Jacobs and Lisa Joyner help reunite both seekers with their loved ones.</p>",
+		"updated": 1541625757,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/13900"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1552444"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561313"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561313"
+		}
+	}
+}, {
+	"id": 1561584,
+	"url": "http://www.tvmaze.com/episodes/1561584/explorer-2018-11-12-the-mouth-of-hell",
+	"name": "The Mouth Of Hell",
+	"season": 2018,
+	"number": 1,
+	"airdate": "2018-11-12",
+	"airtime": "22:00",
+	"airstamp": "2018-11-13T03:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 4660,
+		"url": "http://www.tvmaze.com/shows/4660/explorer",
+		"name": "Explorer",
+		"type": "Documentary",
+		"language": "English",
+		"genres": ["History"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "1985-04-07",
+		"officialSite": "http://channel.nationalgeographic.com/explorer/",
+		"schedule": {
+			"time": "22:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 67,
+		"network": {
+			"id": 42,
+			"name": "National Geographic Channel",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": 79319,
+			"imdb": "tt0146386"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/52742.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/21/52742.jpg"
+		},
+		"summary": "<p><b>Explorer</b>, the longest-running documentary series in cable television history, honored with nearly 60 Emmys and hundreds of other awards, continues as a series of major specials on the National Geographic Channel. In the course of more than two thousand films, Explorer has taken viewers to more than 120 countries, opening a window on hidden parts of the world, unlocking mysteries both ancient and modern, and investigating stories of science, nature, and culture.</p>",
+		"updated": 1541625699,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/4660"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1363919"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561584"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561584"
+		}
+	}
+}, {
+	"id": 1555486,
+	"url": "http://www.tvmaze.com/episodes/1555486/live-pd-presents-women-on-patrol-1x36-episode-36",
+	"name": "Episode 36",
+	"season": 1,
+	"number": 36,
+	"airdate": "2018-11-12",
+	"airtime": "22:30",
+	"airstamp": "2018-11-13T03:30:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 36472,
+		"url": "http://www.tvmaze.com/shows/36472/live-pd-presents-women-on-patrol",
+		"name": "Live PD Presents: Women On Patrol",
+		"type": "Documentary",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2018-06-18",
+		"officialSite": "http://www.mylifetime.com/shows/live-pd-presents-women-on-patrol",
+		"schedule": {
+			"time": "21:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 80,
+		"network": {
+			"id": 18,
+			"name": "Lifetime",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/157/394911.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/157/394911.jpg"
+		},
+		"summary": "<p><b>Live PD Presents: Women On Patrol</b> will follow female law enforcement officers from around the country including departments in Jackson (WY), Wilmington (NC), Tempe (AZ) and Stockton (CA) as well as officers featured on Live PD. In the twenty-episode half-hour series, viewers are provided an unfiltered and unfettered look at the female officers on the front line of some of the busiest police forces in the country as they patrol their communities.</p>",
+		"updated": 1540854046,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/36472"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555484"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1555485"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1555486"
+		}
+	}
+}, {
+	"id": 1502022,
+	"url": "http://www.tvmaze.com/episodes/1502022/startalk-5x01-anthony-bourdain",
+	"name": "Anthony Bourdain",
+	"season": 5,
+	"number": 1,
+	"airdate": "2018-11-12",
+	"airtime": "23:00",
+	"airstamp": "2018-11-13T04:00:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 1951,
+		"url": "http://www.tvmaze.com/shows/1951/startalk",
+		"name": "StarTalk",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2015-04-20",
+		"officialSite": "http://channel.nationalgeographic.com/startalk/",
+		"schedule": {
+			"time": "23:00",
+			"days": ["Monday"]
+		},
+		"rating": {
+			"average": 7.6
+		},
+		"weight": 86,
+		"network": {
+			"id": 42,
+			"name": "National Geographic Channel",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 47238,
+			"thetvdb": 279659,
+			"imdb": "tt4634294"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/27889.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/11/27889.jpg"
+		},
+		"summary": "<p>On <b>StarTalk</b> Host Neil deGrasse Tyson brings together celebrities, scientists and comedians to explore a variety of cosmic topics and collide pop culture with science in a way that late-night television has never seen before. Weekly topics range from popular science fiction, space travel, extraterrestrial life, the Big Bang, to the future of Earth and the environment. Tyson is an astrophysicist with a gifted ability to connect with everyone, inspiring us all to to \"keep looking up\".</p>",
+		"updated": 1541944642,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/1951"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1414406"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1502022"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1502022"
+		}
+	}
+}, {
+	"id": 1561578,
+	"url": "http://www.tvmaze.com/episodes/1561578/watch-what-happens-live-15x172-jenni-pulos-and-emily-simpson",
+	"name": "Jenni Pulos And Emily Simpson",
+	"season": 15,
+	"number": 172,
+	"airdate": "2018-11-12",
+	"airtime": "23:00",
+	"airstamp": "2018-11-13T04:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 2836,
+		"url": "http://www.tvmaze.com/shows/2836/watch-what-happens-live",
+		"name": "Watch What Happens Live",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2009-07-16",
+		"officialSite": "http://www.bravotv.com/watch-what-happens-live",
+		"schedule": {
+			"time": "23:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Sunday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 83,
+		"network": {
+			"id": 52,
+			"name": "Bravo",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 23346,
+			"thetvdb": 230991,
+			"imdb": "tt2057880"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/135584.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/54/135584.jpg"
+		},
+		"summary": "<p><b>Watch What Happens Live</b> is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happen<i>s</i> reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</p>",
+		"updated": 1541625514,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/2836"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561577"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561578"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561578"
+		}
+	}
+}, {
+	"id": 1563092,
+	"url": "http://www.tvmaze.com/episodes/1563092/the-daily-show-with-trevor-noah-2018-11-12-jeffrey-wright",
+	"name": "Jeffrey Wright",
+	"season": 2018,
+	"number": 141,
+	"airdate": "2018-11-12",
+	"airtime": "23:00",
+	"airstamp": "2018-11-13T04:00:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 3928,
+		"url": "http://www.tvmaze.com/shows/3928/the-daily-show-with-trevor-noah",
+		"name": "The Daily Show with Trevor Noah",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2015-09-28",
+		"officialSite": "http://thedailyshow.cc.com/",
+		"schedule": {
+			"time": "23:00",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+		},
+		"rating": {
+			"average": 6
+		},
+		"weight": 94,
+		"network": {
+			"id": 23,
+			"name": "Comedy Central",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": null,
+			"thetvdb": null,
+			"imdb": null
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/130/325364.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/130/325364.jpg"
+		},
+		"summary": "<p>An irreverent skewering of the news and pop culture with South African comedian Trevor Noah, who took over for Jon Stewart when he left the anchor desk after 17 seasons.</p>",
+		"updated": 1542005911,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/3928"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1559954"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1563092"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1563092"
+		}
+	}
+}, {
+	"id": 1561966,
+	"url": "http://www.tvmaze.com/episodes/1561966/the-tonight-show-starring-jimmy-fallon-2018-11-12-jamie-foxx-troye-sivan-charli-xcx-troye-sivan",
+	"name": "Jamie Foxx, Troye Sivan, Charli XCX & Troye Sivan",
+	"season": 2018,
+	"number": 167,
+	"airdate": "2018-11-12",
+	"airtime": "23:35",
+	"airstamp": "2018-11-13T04:35:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 718,
+		"url": "http://www.tvmaze.com/shows/718/the-tonight-show-starring-jimmy-fallon",
+		"name": "The Tonight Show Starring Jimmy Fallon",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2014-02-17",
+		"officialSite": "http://www.nbc.com/the-tonight-show",
+		"schedule": {
+			"time": "23:35",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 5.8
+		},
+		"weight": 98,
+		"network": {
+			"id": 1,
+			"name": "NBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 35853,
+			"thetvdb": 270261,
+			"imdb": "tt3444938"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/15080.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/6/15080.jpg"
+		},
+		"summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
+		"updated": 1541859136,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/718"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560147"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561966"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561966"
+		}
+	}
+}, {
+	"id": 1563096,
+	"url": "http://www.tvmaze.com/episodes/1563096/the-late-show-with-stephen-colbert-2018-11-12-hugh-jackman-jeff-tweedy-six-string-soldiers",
+	"name": "Hugh Jackman, Jeff Tweedy, Six-String Soldiers",
+	"season": 2018,
+	"number": 178,
+	"airdate": "2018-11-12",
+	"airtime": "23:35",
+	"airstamp": "2018-11-13T04:35:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Hugh Jackman; interview with and musical performance by Jeff Tweedy; United States Army Field Band's Six String Soldiers sitting in with Jon Batiste and Stay Human.</p>",
+	"show": {
+		"id": 2756,
+		"url": "http://www.tvmaze.com/shows/2756/the-late-show-with-stephen-colbert",
+		"name": "The Late Show with Stephen Colbert",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2015-09-08",
+		"officialSite": "http://www.cbs.com/shows/the-late-show-with-stephen-colbert/",
+		"schedule": {
+			"time": "23:35",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 6.5
+		},
+		"weight": 98,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 41941,
+			"thetvdb": 289574,
+			"imdb": "tt3697842"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/47217.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/18/47217.jpg"
+		},
+		"summary": "<p>Stephen Colbert takes over as host of The Late Show on Tuesday, Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Prior to joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one third of the time. Good luck, Bill!</p>",
+		"updated": 1541991058,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/2756"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556166"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1563096"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1563096"
+		}
+	}
+}, {
+	"id": 1564059,
+	"url": "http://www.tvmaze.com/episodes/1564059/jimmy-kimmel-live-2018-11-12-jeff-bridges-se-cupp-midland",
+	"name": "Jeff Bridges, S.E. Cupp, Midland",
+	"season": 2018,
+	"number": 159,
+	"airdate": "2018-11-12",
+	"airtime": "23:35",
+	"airstamp": "2018-11-13T04:35:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 1388,
+		"url": "http://www.tvmaze.com/shows/1388/jimmy-kimmel-live",
+		"name": "Jimmy Kimmel Live",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2003-01-26",
+		"officialSite": "http://abc.go.com/shows/jimmy-kimmel-live/",
+		"schedule": {
+			"time": "23:35",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+		},
+		"rating": {
+			"average": 6
+		},
+		"weight": 97,
+		"network": {
+			"id": 3,
+			"name": "ABC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 4055,
+			"thetvdb": 71998,
+			"imdb": "tt0320037"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/157/394970.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/157/394970.jpg"
+		},
+		"summary": "<p><b>Jimmy Kimmel Live</b> features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</p>",
+		"updated": 1542005404,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/1388"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560689"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564059"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564059"
+		}
+	}
+}, {
+	"id": 1536972,
+	"url": "http://www.tvmaze.com/episodes/1536972/dream-corp-llc-2x07-guys-and-dads",
+	"name": "Guys and Dads",
+	"season": 2,
+	"number": 7,
+	"airdate": "2018-11-12",
+	"airtime": "23:45",
+	"airstamp": "2018-11-13T04:45:00+00:00",
+	"runtime": 15,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 17320,
+		"url": "http://www.tvmaze.com/shows/17320/dream-corp-llc",
+		"name": "Dream Corp LLC",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 15,
+		"premiered": "2016-10-23",
+		"officialSite": "http://www.adultswim.com/videos/dream-corp-llc/",
+		"schedule": {
+			"time": "00:00",
+			"days": ["Sunday"]
+		},
+		"rating": {
+			"average": 5.8
+		},
+		"weight": 99,
+		"network": {
+			"id": 10,
+			"name": "Adult Swim",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 42358,
+			"thetvdb": 317998,
+			"imdb": "tt5475704"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/79/199782.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/79/199782.jpg"
+		},
+		"summary": "<p><b>Dream Corp LLC</b> is an absurd workplace comedy set in a neglected dream therapy facility. Each week, viewers will watch as a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor, Dr. Roberts, and his team of unremarkable scientists.</p>",
+		"updated": 1540554495,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/17320"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1536971"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1536972"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1536972"
+		}
+	}
+}, {
+	"id": 1536973,
+	"url": "http://www.tvmaze.com/episodes/1536973/dream-corp-llc-2x08-88s-weekly",
+	"name": "88's Weekly",
+	"season": 2,
+	"number": 8,
+	"airdate": "2018-11-12",
+	"airtime": "23:45",
+	"airstamp": "2018-11-13T04:45:00+00:00",
+	"runtime": 15,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 17320,
+		"url": "http://www.tvmaze.com/shows/17320/dream-corp-llc",
+		"name": "Dream Corp LLC",
+		"type": "Scripted",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 15,
+		"premiered": "2016-10-23",
+		"officialSite": "http://www.adultswim.com/videos/dream-corp-llc/",
+		"schedule": {
+			"time": "00:00",
+			"days": ["Sunday"]
+		},
+		"rating": {
+			"average": 5.8
+		},
+		"weight": 99,
+		"network": {
+			"id": 10,
+			"name": "Adult Swim",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 42358,
+			"thetvdb": 317998,
+			"imdb": "tt5475704"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/79/199782.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/79/199782.jpg"
+		},
+		"summary": "<p><b>Dream Corp LLC</b> is an absurd workplace comedy set in a neglected dream therapy facility. Each week, viewers will watch as a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor, Dr. Roberts, and his team of unremarkable scientists.</p>",
+		"updated": 1540554495,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/17320"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1536971"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1536972"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1536973"
+		}
+	}
+}, {
+	"id": 1561835,
+	"url": "http://www.tvmaze.com/episodes/1561835/the-late-late-show-with-james-corden-2018-11-12-octavia-spencer-jesse-williams-pentatonix",
+	"name": "Octavia Spencer, Jesse Williams, Pentatonix",
+	"season": 2018,
+	"number": 128,
+	"airdate": "2018-11-12",
+	"airtime": "00:35",
+	"airstamp": "2018-11-13T05:35:00+00:00",
+	"runtime": 60,
+	"image": null,
+	"summary": "<p>Actress Octavia Spencer; actor Jesse Williams; musical performance by Pentatonix.</p>",
+	"show": {
+		"id": 2831,
+		"url": "http://www.tvmaze.com/shows/2831/the-late-late-show-with-james-corden",
+		"name": "The Late Late Show with James Corden",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": ["Comedy", "Music"],
+		"status": "Running",
+		"runtime": 60,
+		"premiered": "2015-03-23",
+		"officialSite": "http://www.cbs.com/shows/late-late-show/",
+		"schedule": {
+			"time": "00:35",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+		},
+		"rating": {
+			"average": 5.1
+		},
+		"weight": 94,
+		"network": {
+			"id": 2,
+			"name": "CBS",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 44904,
+			"thetvdb": 292421,
+			"imdb": "tt4280606"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/15/38435.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/15/38435.jpg"
+		},
+		"summary": "<p>Each week night, <b>The Late Late Show with James Corden </b>throws the ultimate late night after party with a mix of celebrity guests, edgy musical acts, games and sketches. Corden differentiates his show by offering viewers a peek behind-the-scenes into the green room, bringing all of his guests out at once and lending his musical and acting talents to various sketches. Additionally, bandleader Reggie Watts and the house band provide original, improvised music throughout the show. Since Corden took the reigns as host in March 2015, he has quickly become known for generating buzzworthy viral videos, such as Carpool Karaoke.</p>",
+		"updated": 1541666965,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/2831"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1556161"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561835"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561835"
+		}
+	}
+}, {
+	"id": 1561329,
+	"url": "http://www.tvmaze.com/episodes/1561329/late-night-with-seth-meyers-2018-11-12-kerry-washington-david-sedaris-mamoudou-athie-caitlin-kalafus",
+	"name": "Kerry Washington, David Sedaris, Mamoudou Athie, Caitlin Kalafus",
+	"season": 2018,
+	"number": 127,
+	"airdate": "2018-11-12",
+	"airtime": "00:37",
+	"airstamp": "2018-11-13T05:37:00+00:00",
+	"runtime": 61,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 363,
+		"url": "http://www.tvmaze.com/shows/363/late-night-with-seth-meyers",
+		"name": "Late Night with Seth Meyers",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": ["Comedy"],
+		"status": "Running",
+		"runtime": 61,
+		"premiered": "2014-02-24",
+		"officialSite": "http://www.nbc.com/late-night-with-seth-meyers/episodes",
+		"schedule": {
+			"time": "00:37",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+		},
+		"rating": {
+			"average": 6.1
+		},
+		"weight": 97,
+		"network": {
+			"id": 1,
+			"name": "NBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 35852,
+			"thetvdb": 270262,
+			"imdb": "tt3513388"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/5469.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/2/5469.jpg"
+		},
+		"summary": "<p>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's <b>Late Night</b> — home to A-list celebrity guests, memorable comedy and the best in musical talent.</p><p>As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to The Tonight Show.</p>",
+		"updated": 1541770782,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/363"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1557766"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1561329"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1561329"
+		}
+	}
+}, {
+	"id": 1564064,
+	"url": "http://www.tvmaze.com/episodes/1564064/last-call-with-carson-daly-2018-11-12-dan-fogler-family-of-the-year-daphnique-springs",
+	"name": "Dan Fogler, Family of the Year, Daphnique Springs",
+	"season": 2018,
+	"number": 84,
+	"airdate": "2018-11-12",
+	"airtime": "01:35",
+	"airstamp": "2018-11-13T06:35:00+00:00",
+	"runtime": 30,
+	"image": null,
+	"summary": null,
+	"show": {
+		"id": 390,
+		"url": "http://www.tvmaze.com/shows/390/last-call-with-carson-daly",
+		"name": "Last Call with Carson Daly",
+		"type": "Talk Show",
+		"language": "English",
+		"genres": [],
+		"status": "Running",
+		"runtime": 30,
+		"premiered": "2002-01-08",
+		"officialSite": "https://www.nbc.com/last-call-with-carson-daly",
+		"schedule": {
+			"time": "01:35",
+			"days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+		},
+		"rating": {
+			"average": null
+		},
+		"weight": 92,
+		"network": {
+			"id": 1,
+			"name": "NBC",
+			"country": {
+				"name": "United States",
+				"code": "US",
+				"timezone": "America/New_York"
+			}
+		},
+		"webChannel": null,
+		"externals": {
+			"tvrage": 4188,
+			"thetvdb": 78057,
+			"imdb": "tt0305056"
+		},
+		"image": {
+			"medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/5774.jpg",
+			"original": "http://static.tvmaze.com/uploads/images/original_untouched/2/5774.jpg"
+		},
+		"summary": "<p>Currently in its 13th season on NBC, <b>Last Call with Carson Daly</b> continues to push the boundaries of late night television. Each night, Last Call hits the streets, taking the entire show on location and bringing viewers along for the ride. Host Carson Daly introduces his audience to the emerging artists, stories and music you simply won't find anywhere else. In recent years, Last Call has garnered acclaim for its gritty documentary style, emphasis on great storytelling and status as late night TV's unofficial music tastemaker.</p>",
+		"updated": 1542005803,
+		"_links": {
+			"self": {
+				"href": "http://api.tvmaze.com/shows/390"
+			},
+			"previousepisode": {
+				"href": "http://api.tvmaze.com/episodes/1560694"
+			},
+			"nextepisode": {
+				"href": "http://api.tvmaze.com/episodes/1564064"
+			}
+		}
+	},
+	"_links": {
+		"self": {
+			"href": "http://api.tvmaze.com/episodes/1564064"
+		}
+	}
+}]

@@ -1,0 +1,285 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.content {
+    position: relative;
+}
+
+.header-background {
+    background: url("../src/img/header.png");
+    width: 100vw;
+    height: 148px;
+}
+
+.header-background p {
+    font-family: 'OpenSans', sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    padding-top: 15%;
+    margin-left: 34vw;
+    font-size: 20px;
+}
+
+.screen img {
+    margin-top: 3%;
+    margin-left: 27%;
+}
+
+.screen p {
+    font-family: OpenSans, sans-serif;;
+    margin-left: 7%;
+    width: 85%;
+    text-align: center;
+}
+
+
+
+@media (min-width: 412px) {
+    .calendar {
+        padding-top: 5%;
+    }
+}
+
+.episode1 {
+    text-align: center;
+}
+
+.episode1 img {
+    float: left;
+}
+
+.line {
+    width: 100vw;
+}
+
+.episode1 p {
+    font-family: 'OpenSans', sans-serif;
+    font-size: 15px;
+    float: left;
+}
+
+.episode1 span {
+    font-family: 'OpenSans', sans-serif;
+    opacity: 0.5;
+    float: left;
+}
+
+@media (min-width: 410px) {
+    .episode1 span {
+        margin-right: 35px;
+    }
+}
+
+.episode1 span p {
+    font-family: 'OpenSans', sans-serif;
+    background-color: #cdcdcd;
+    padding-right: 20px;
+    margin-top: 50%;
+    padding-top: 15px;
+    opacity: 0.5;
+    height: 50px;
+}
+
+.episode2 {
+    position: absolute;
+    top: 475px;
+    height: 300px;
+    text-align: center;
+}
+
+.episode2 img {
+    float: left;
+}
+
+.episode2 span {
+    font-family: 'OpenSans', sans-serif;
+    opacity: 0.5;
+    float: left;
+}
+
+@media (min-width: 410px) {
+    .episode2 span {
+        margin-right: 35px;
+    }
+}
+
+.episode2 p {
+    font-family: 'OpenSans', sans-serif;
+    float: left;
+    font-size: 15px;
+}
+
+.episode2 span p {
+    font-family: 'OpenSans', sans-serif;
+    background-color: #cdcdcd;
+    padding-right: 20px;
+    margin-top: 50%;
+    padding-top: 15px;
+    opacity: 0.5;
+    height: 50px;
+}
+
+.more-episodes {
+    position: absolute;
+    top: 750px;
+    left: 12%;
+    opacity: 0.5;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.more-episodes img {
+    margin-left: 5%;
+}
+
+.episode3 {
+    position: absolute;
+    top: 850px;
+    height: 300px;
+    text-align: center;
+}
+
+.episode3 img {
+    float: left;
+}
+
+.episode3 span {
+    font-family: 'OpenSans', sans-serif;
+    opacity: 0.5;
+    float: left;
+}
+@media (min-width: 410px) {
+    .episode3 span {
+        margin-right: 40px;
+    }
+}
+
+.episode3 p {
+    font-family: 'OpenSans', sans-serif;
+    margin-right: 70px;
+    float: left;
+    font-size: 15px;
+}
+.episode3 span p {
+    position: relative;
+    top: -150px;
+    left: 231px;
+    background-color: #cdcdcd;
+    padding-right: 20px;
+    padding-top: 15px;
+    opacity: 0.5;
+    height: 50px;
+}
+.episode4{
+    position: absolute;
+    top: 1200px;
+    height: 300px;
+    text-align: center;
+}
+.episode4 img{
+    float: left;
+}
+.episode4 span {
+    font-family: 'OpenSans', sans-serif;
+    opacity: 0.5;
+    float: left;
+}
+@media (min-width: 410px) {
+    .episode4 span {
+        margin-right: 40px;
+    }
+}
+.episode4 p {
+    font-family: 'OpenSans', sans-serif;
+    margin-right: 70px;
+    float: left;
+    font-size: 15px;
+}
+.episode4 span p {
+    position: relative;
+    top: -150px;
+    left: 220px;
+    background-color: #cdcdcd;
+    padding-right: 20px;
+    padding-top: 15px;
+    opacity: 0.5;
+    height: 50px;
+}
+.episode5{
+    position: absolute;
+    top: 1466px;
+    height: 300px;
+    text-align: center;
+}
+.episode5 img{
+    float: left;
+}
+.episode5 span {
+    font-family: 'OpenSans', sans-serif;
+    opacity: 0.5;
+    float: left;
+}
+@media (min-width: 410px) {
+    .episode5 span {
+        margin-right: 40px;
+    }
+}
+.episode5 p {
+    font-family: 'OpenSans', sans-serif;
+    /*margin-right: 70px;*/
+    float: left;
+    font-size: 15px;
+}
+.episode5 span p {
+    position: relative;
+    left: 34px;
+    background-color: #cdcdcd;
+    padding-right: 20px;
+    padding-top: 15px;
+    opacity: 0.5;
+    height: 50px;
+}
+.episode6{
+    position: absolute;
+    top: 1740px;
+    height: 300px;
+    text-align: center;
+}
+.episode6 img{
+    float: left;
+}
+.episode6 span {
+    font-family: 'OpenSans', sans-serif;
+    opacity: 0.5;
+    float: left;
+}
+@media (min-width: 410px) {
+    .episode6 span {
+        margin-right: 40px;
+    }
+}
+.episode6 p {
+    font-family: 'OpenSans', sans-serif;
+    margin-right: 40px;
+    float: left;
+    font-size: 15px;
+}
+.episode6 span p {
+    position: relative;
+    top: -150px;
+    left: 220px;
+    background-color: #cdcdcd;
+    padding-right: 20px;
+    padding-top: 15px;
+    opacity: 0.5;
+    height: 50px;
+}
