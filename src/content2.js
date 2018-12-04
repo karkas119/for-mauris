@@ -1,20 +1,30 @@
 import React, {Component} from 'react';
 import './index.css';
-import poster1 from './img/poster1.png'
-import line from './img/line.png'
+
+const API = 'http://api.tvmaze.com/schedule';
 
 class Content2 extends Component {
-    render() {
-        return (
-            <div className='episode1'>
-                <h3>10 июля 2018</h3>
-                <img className='line' src={line} alt='not found'/>
-                <img src={poster1} alt='not found'/>
-                <p>Теория большого взрыва</p>
-                <span>2013</span>
-                <span><p>Сезон:2 Эпизод:12</p></span>
-            </div>
+    constructor(props) {
+        super(props);
 
+        this.state = {
+            data: []
+        }
+    }
+
+    componentDidMount() {
+        fetch(API)
+            .then(response => response.json())
+            .then(data => this.setState({data}))
+    }
+
+
+    render() {
+        const {data} = this.state;
+        return (
+            <ul>
+                {data.map(item => <li>{item.name}</li>)}
+        </ul>
         )
     }
 }
